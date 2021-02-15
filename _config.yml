@@ -1,0 +1,211 @@
+---
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: dark
+locale: en-US
+title: Alas, A Website
+title_separator: "-"
+subtitle: Musings, projects, recipes, etc.
+name: Bojan Rajkovic
+description: My personal website, with blog posts, projects, recipes, etc.
+url: https://coderinserepeat.com
+repository: bojanrajkovic/coderinserepeat.com
+breadcrumbs: true
+words_per_minute: 200
+atom_feed: 
+google_site_verification: UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
+twitter:
+  username: bojanrajkovic
+og_image: "/assets/images/site-logo.png"
+social:
+  links:
+  - https://twitter.com/bojanrajkovic
+  - https://www.facebook.com/bojan.rajkovic
+  - https://linkedin.com/in/brajkovic
+  - https://instagram.com/brajkovic
+  - https://github.com/bojanrajkovic
+analytics:
+  provider: google
+  google:
+    tracking_id: ''
+    anonymize_ip: true
+author:
+  name: Bojan Rajkovic
+  avatar: https://s.gravatar.com/avatar/646da885e0b810fa623125a9f216ffa8?s=240
+  bio: Hi, I'm Bojan. I'm a technology generalist, with interest areas in engineering
+    systems & culture, API design, and performance engineering.
+  location: Boston MSA
+  links:
+  - label: Code, Rinse, Repeat
+    icon: fas fa-fw fa-link
+    url: https://coderinserepeat.com
+  - label: Twitter
+    icon: fab fa-fw fa-twitter-square
+    url: https://twitter.com/bojanrajkovic
+  - label: GitHub
+    icon: fab fa-fw fa-github
+    url: https://github.com/bojanrajkovic
+  - label: Instagram
+    icon: fab fa-fw fa-instagram
+    url: https://instagram.com/brajkovic
+  - label: LinkedIn
+    icon: fab fa-fw fa-linkedin
+    url: https://linkedin.com/in/brajkovic
+footer:
+  links:
+  - label: Twitter
+    icon: fab fa-fw fa-twitter-square
+    url: https://twitter.com/bojanrajkovic
+  - label: GitHub
+    icon: fab fa-fw fa-github
+    url: https://github.com/bojanrajkovic
+  - label: Instagram
+    icon: fab fa-fw fa-instagram
+    url: https://instagram.com/brajkovic
+  - label: LinkedIn
+    icon: fab fa-fw fa-linkedin
+    url: https://linkedin.com/in/brajkovic
+include:
+- _pages
+exclude:
+- secrets.yml
+- "*.sublime-project"
+- "*.sublime-workspace"
+- vendor
+- ".asset-cache"
+- ".bundle"
+- ".jekyll-assets-cache"
+- ".sass-cache"
+- assets/js/plugins
+- assets/js/_main.js
+- assets/js/vendor
+- Capfile
+- CHANGELOG
+- config
+- Gemfile
+- Gruntfile.js
+- gulpfile.js
+- LICENSE
+- log
+- node_modules
+- package.json
+- Rakefile
+- README
+- tmp
+keep_files:
+- ".git"
+- ".svn"
+encoding: utf-8
+markdown_ext: markdown,mkdown,mkdn,mkd,md
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+collections:
+  recipes:
+    output: true
+    permalink: "/:collection/:path/"
+  cats:
+    output: true
+    permalink: "/:collection/:path/"
+  cocktails:
+    output: true
+    permalink: "/:collection/:path/"
+  projects:
+    output: true
+    permalink: "/:collection/:path/"
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: single
+    author_profile: true
+    read_time: true
+    comments: true
+    share: true
+    related: true
+- scope:
+    path: _pages
+    type: pages
+  values:
+    layout: single
+    author_profile: true
+- scope:
+    path: _recipes
+    type: recipes
+  values:
+    layout: recipe
+    classes: wide
+- scope:
+    path: _projects
+    type: projects
+  values:
+    layout: single
+    author_profile: false
+- scope:
+    path: _cocktails
+    type: cocktails
+  values:
+    layout: cocktail
+- scope:
+    path: _cats
+    type: cats
+  values:
+    layout: cat
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: "/:year/:month/:day/:title:output_ext"
+paginate: 6
+paginate_path: "/blog/page:num"
+timezone: America/New_York
+plugins:
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-gist
+- jekyll-feed
+- jemoji
+- jekyll-archives
+- jekyll-include-cache
+- jekyll-redirect-from
+category_archive:
+  type: jekyll-archives
+  path: "/category/"
+tag_archive:
+  type: jekyll-archives
+  path: "/tag/"
+jekyll-archives:
+  enabled:
+  - tags
+  - categories
+  - year
+  - month
+  - day
+  collections:
+  - recipes
+  layouts:
+    year: archive-taxonomy
+    month: archive-taxonomy
+    day: archive-taxonomy
+    tag: archive-taxonomy
+    category: archive-taxonomy
+  permalinks:
+    year: "/:year/"
+    month: "/:year/:month/"
+    day: "/:year/:month/:day/"
+    tag: "/tag/:name/"
+    category: "/category/:name/"
+compress_html:
+  clippings: all
+  ignore:
+    envs: development

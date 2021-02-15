@@ -1,0 +1,14 @@
+---
+main:
+  - title: About
+    url: /about/
+  - title: Blog
+    url: /blog/
+  - title: Projects
+    url: /projects/
+  - title: Recipes
+    url: /recipes/
+  - title: Cocktails
+    url: /cocktails/
+  - title: Resume
+    url: /cv/
