@@ -11,8 +11,7 @@ url: https://coderinserepeat.com
 repository: bojanrajkovic/coderinserepeat.com
 breadcrumbs: true
 words_per_minute: 200
-atom_feed: 
-google_site_verification: UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
+atom_feed:
 twitter:
   username: bojanrajkovic
 og_image: "/assets/images/site-logo.png"
