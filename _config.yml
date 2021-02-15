@@ -98,7 +98,7 @@ encoding: utf-8
 markdown_ext: markdown,mkdown,mkdn,mkd,md
 markdown: kramdown
 highlighter: rouge
-lsi: false
+lsi: true
 excerpt_separator: "\n\n"
 incremental: false
 kramdown:
