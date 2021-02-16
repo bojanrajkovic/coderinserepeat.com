@@ -11,7 +11,12 @@ url: https://coderinserepeat.com
 repository: bojanrajkovic/coderinserepeat.com
 breadcrumbs: true
 words_per_minute: 200
-atom_feed:
+comments:
+  provider: utterances
+  utterances:
+    issue_term: title
+    theme: github-dark
+    label: Label-Discussion
 twitter:
   username: bojanrajkovic
 og_image: "/assets/images/site-logo.png"
