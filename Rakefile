@@ -96,3 +96,8 @@ task :deploy do
   system "aws s3 sync _site/ #{secrets["s3_bucket_url"]} --acl public-read --profile #{secrets["aws_profile_name"]}"
   system "aws cloudfront create-invalidation --distribution-id #{secrets["cloudfront_distribution_id"]}  --paths \"/*\" --profile #{secrets["aws_profile_name"]}"
 end
+
+desc "Invalidate Cloudfront Distribution"
+task :invalidate do
+  system "aws cloudfront create-invalidation --distribution-id #{secrets["cloudfront_distribution_id"]}  --paths \"/*\" --profile #{secrets["aws_profile_name"]}"
+end
