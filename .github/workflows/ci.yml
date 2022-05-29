@@ -47,6 +47,7 @@ jobs:
     runs-on: ubuntu-latest
     needs:
       - build
+      - test-publish
     environment: production
     steps:
       - name: ⬇ download artifact
