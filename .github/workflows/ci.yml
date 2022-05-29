@@ -12,10 +12,7 @@ jobs:
       - name: 💎 setup ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.0
-      - name: 🧷 install native deps
-        run: |
-          sudo apt install libgsl0-dev
+          ruby-version: 2.7
       - name: 🔨 install dependencies & build site
         uses: limjh16/jekyll-action-ts@v2
         with:
