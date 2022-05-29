@@ -31,14 +31,18 @@ jobs:
     runs-on: ubuntu-latest
     environment: production
     steps:
-      - name: publish to s3
+      - name: ⬇ download artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: site
+      - name: 3️⃣  publish to s3
         env:
           S3_BUCKET_URL: ${{ secrets.S3_BUCKET_URL }}
           AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS_KEY }}
         run: |
           aws s3 sync _site/ ${S3_BUCKET_URL} --acl public-read
-      - name: create a cloudfront invalidation
+      - name: ☁️  create a cloudfront invalidation
         env:
           CLOUDFRONT_DISTRIBUTION_ID: ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID }}
           AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY_ID }}
