@@ -25,17 +25,35 @@ jobs:
         with:
           name: site
           path: _site
-  publish:
+  test-publish:
+    runs-on: ubuntu-latest
     needs:
       - build
+    environment: test
+    steps:
+      - name: ⬇ download artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: site
+          path: _site
+      - name: 3️⃣  publish to s3
+        env:
+          S3_BUCKET_URL: ${{ secrets.S3_BUCKET_URL }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS_KEY }}
+        run: |
+          aws s3 sync _site/ ${S3_BUCKET_URL} --acl public-read --region us-east-1
+  prod-publish:
     runs-on: ubuntu-latest
+    needs:
+      - build
     environment: production
     steps:
       - name: ⬇ download artifact
         uses: actions/download-artifact@v3
         with:
           name: site
-      - run: ls
+          path: _site
       - name: 3️⃣  publish to s3
         env:
           S3_BUCKET_URL: ${{ secrets.S3_BUCKET_URL }}
