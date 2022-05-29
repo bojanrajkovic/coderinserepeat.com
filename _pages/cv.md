@@ -19,10 +19,31 @@ tools:
   - Git
   - GitHub
 experience:
+  - title: Director, Monitoring Engineering
+    employer: SimpliSafe
+    start: May 2021
+    end: Present
+    tech:
+      - JavaScript/TypeScript
+      - AWS (ECS/EKS, DocumentDB, DynamoDB, etc.)
+      - Kafka
+    bullets:
+      - |
+        Build the organizational structure to best align with our products and
+        deliver stronger customer experiences.
+      - |
+        Work with product and business stakeholders to identify opportunities in
+        the monitoring space and build the technology portion of the roadmap.
+      - |
+        Work across the organization to drive API & systems design improvements to
+        improve monitoring outcomes and experiences.
+      - |
+        Work with dispatch partners to ensure scalable, reliable, and performant
+        delivery of alarms and dispatch of first responders.
   - title: Director, Systems Architecture
     employer: First Republic Bank
     start: February 2019
-    end: Present
+    end: April 2021
     tech:
       - Kafka
       - Apigee
@@ -34,11 +55,11 @@ experience:
       - |
         Led architecture efforts on enterprise-wide initiatives for API
         gateway and real-time data implementations with Apigee and Kafka
-      - | 
+      - |
         Led a small architecture team working as horizontal solution
         architecture and API experts for a banking core replacement effort
         (10+ major workstreams, 50+ total projects)
-      - | 
+      - |
         Led enterprise efforts on software quality and SDLC compliance,
         including devising new quality metrics based on engineering community
         health
@@ -244,7 +265,7 @@ Technologies: {{ job.tech | join: ", " }}
 ## Contacting Me
 
 The best way to reach me re: hiring is [via email][email]. You can also message me on
-[LinkedIn][lin], or find my Twitter, etc.   
+[LinkedIn][lin], or find my Twitter, etc.
 
 [^0]: "Many have marked the speed with which Muad'Dib learned the necessities of
     Arrakis. The Bene Gesserit, of course, know the basis of this speed. For the
