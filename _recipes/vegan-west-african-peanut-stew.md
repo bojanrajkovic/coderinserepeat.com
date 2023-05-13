@@ -3,6 +3,8 @@ layout: recipe
 uid: 616DBDCD-0817-43F0-AA36-8315E9B86CA8-30958-00000EBF845EF6B7
 hash: D610AB4C4911643D3C11B541B25B421F90EFAA55D02891EEB08811608A0BDAFA
 name: Vegan West African Peanut Stew
+image_url: >-
+  https://www.budgetbytes.com/wp-content/uploads/2014/08/West-African-Peanut-Stew-V-640x854.jpg
 ingredients:
   - 1 Tbsp olive oil
   - 4 cloves garlic
@@ -22,16 +24,18 @@ ingredients:
 servings: '4'
 nutritional_info: ''
 cook_time: 45 mins
+iso_cook_time: P0D
 prep_time: 10 mins
+iso_prep_time: P0D
 total_time: ''
-link: 'https://www.budgetbytes.com/african-peanut-stew-vegan/'
+source_url: 'https://www.budgetbytes.com/african-peanut-stew-vegan/'
 difficulty: Medium
 rating: 0
 tags:
   - African
   - Budget
+description: ''
 ---
-
 ## Directions
 
 Peel and grate the ginger using a small holed cheese grater. Mince the garlic, and dice the onion. Sauté the onion, ginger, and garlic in a large pot with the olive oil over medium heat for 2-3 minutes, or until the onion becomes soft and translucent.

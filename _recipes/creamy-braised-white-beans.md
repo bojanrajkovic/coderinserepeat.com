@@ -3,6 +3,8 @@ layout: recipe
 uid: E468CF3A-9703-4E18-93A4-05E1A6B421FA-38510-0000179A4814659F
 hash: 03FFEA69875AE2AB7C5DEF6145BF0A37E00A73513CF3E418E8F6DF553DB67BEF
 name: Creamy Braised White Beans
+image_url: >-
+  https://static01.nyt.com/images/2019/02/07/dining/as-white-beans-toast/as-white-beans-toast-articleLarge-v3.jpg
 ingredients:
   - 1 tablespoon unsalted butter
   - '1 head garlic, halved crosswise'
@@ -31,15 +33,16 @@ nutritional_info: |-
   Trans Fat: 0 grams
   Unsaturated fat: 2 grams
 cook_time: 25 minutes
+iso_cook_time: PT25M
 prep_time: ''
 total_time: ''
-link: 'https://cooking.nytimes.com/recipes/1019982-creamy-braised-white-beans'
+source_url: 'https://cooking.nytimes.com/recipes/1019982-creamy-braised-white-beans'
 difficulty: Medium
 rating: 4
 tags:
   - Braises
+description: ''
 ---
-
 ## Directions
 
 In a medium saucepan, melt the butter over medium-high heat. Add the garlic, cut side down, and cook until golden brown, 1 to 2 minutes.

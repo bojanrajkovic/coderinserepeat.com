@@ -3,6 +3,8 @@ layout: recipe
 uid: 9F6EBE48-553B-47A5-A9D7-5787752FDD07-7462-000004B6D5EEF5EB
 hash: 49176E59CA0937E0A53ADD54F5C61AAC7E12DDE2FC1794C55466904C0D73D9EA
 name: Garlic Herb Chicken and Rice Bake
+image_url: >-
+  https://img.buzzfeed.com/buzzfeed-static/static/2017-06/6/19/asset/buzzfeed-prod-web-02/sub-buzz-5966-1496790270-1.jpg?downsize=700%3A%2A&output-quality=auto&output-format=auto&output-quality=auto&output-format=auto&downsize=360:*
 ingredients:
   - '3 teaspoons seasoned salt, divided'
   - 1 teaspoon black pepper
@@ -22,14 +24,14 @@ nutritional_info: ''
 cook_time: ''
 prep_time: ''
 total_time: ''
-link: 'https://www.buzzfeed.com/camillebergerson/garlic-herb-chicken-and-rice-bake'
+source_url: 'https://www.buzzfeed.com/camillebergerson/garlic-herb-chicken-and-rice-bake'
 difficulty: Easy
 rating: 0
 tags:
   - Bakes
   - Chicken
+description: ''
 ---
-
 ## Directions
 
 1. Preheat oven to 400ºF/200ºC.

@@ -3,6 +3,8 @@ layout: recipe
 uid: 0ec3378a-6e97-4785-a100-555011180702
 hash: 28E2AB6E2A231B255281C1BA8DF0CDBAEA14C1D3D168A67E7FEDE21D0D0BC579
 name: Vegan Crispy Stir-Fried Tofu with Broccoli
+image_url: >-
+  https://www.seriouseats.com/recipes/images/2015/04/20140205-fried-tofu-vegan-18-200x150.jpg
 ingredients:
   - 1 1/2 quarts vegetable or peanut oil
   - 1/2 cup cornstarch
@@ -31,17 +33,19 @@ ingredients:
 servings: '4'
 nutritional_info: ''
 cook_time: 30 minutes
+iso_cook_time: PT30M
 prep_time: 30 minutes
+iso_prep_time: PT30M
 total_time: ''
-link: >-
+source_url: >-
   https://www.seriouseats.com/recipes/2014/02/vegan-experience-crispy-tofu-broccoli-stir-fry.html
 difficulty: Medium
 rating: 0
 tags:
   - Vegan
   - Asian
+description: ''
 ---
-
 ## Directions
 
 1. Heat oil in a wok to 350°F. Whisk together 1/2 cup cornstarch, flour, baking powder, and 1 teaspoon kosher salt. Add water and vodka and whisk until a smooth batter is formed, adding up to 2 tablespoons additional water if batter is too thick. It should have the consistency of thin paint and fall off of the whisk in thin ribbons that instantly disappear as they hit the surface of the batter in the bowl.

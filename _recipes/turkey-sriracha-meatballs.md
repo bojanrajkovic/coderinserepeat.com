@@ -3,6 +3,8 @@ layout: recipe
 uid: CE422F0C-5D22-4D8A-8BE4-FF95ACBA5ED7-6735-000003ADF6C55472
 hash: E5C510133B8F397B6D40E7D1DEF59D98DCF85820D5D508628E841EAC768AE597
 name: Turkey Sriracha Meatballs
+image_url: >-
+  https://www.budgetbytes.com/wp-content/uploads/2013/10/Turkey-Sriracha-Meatballs-plate-300x225.jpg
 ingredients:
   - '**For the meatballs**'
   - 19 oz package ground turkey
@@ -22,17 +24,19 @@ ingredients:
 servings: '6'
 nutritional_info: ''
 cook_time: 25 minutes
+iso_cook_time: PT25M
 prep_time: 15 minutes
+iso_prep_time: PT15M
 total_time: ''
-link: 'https://www.budgetbytes.com/turkey-sriracha-meatballs/'
+source_url: 'https://www.budgetbytes.com/turkey-sriracha-meatballs/'
 difficulty: Easy
 rating: 0
 tags:
   - Spicy
   - Turkey
   - Budget
+description: ''
 ---
-
 ## Directions
 
 Preheat the oven to 350 degrees. Add the ground turkey, egg, bread crumbs, soy sauce, and some freshly ground pepper to a large bowl. Peel the ginger with a vegetable peeler or by scraping the skin off with the side of a spoon. Use a small holed cheese grater to grate about two inches of the ginger straight into the bowl. Thinly slice 2-3 of the green onions and add to the bowl (save the rest for later).

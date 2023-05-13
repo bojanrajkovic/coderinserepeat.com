@@ -3,6 +3,8 @@ layout: recipe
 uid: A90385B2-8308-482E-938C-64D542D56C38
 hash: 94FE97251831175FAA639FC8CBF597ED1CFDA246E0ED955B63EAA4718D87FFED
 name: Pumpkin Chocolate Chip Oatmeal Breakfast Bars
+image_url: >-
+  https://beamingbaker.com/wp-content/uploads/2017/09/SQ-Gluten-Free-Pumpkin-Chocolate-Chip-Oatmeal-Breakfast-Bars-Vegan-GF-Dairy-Free-Refined-Sugar-Free-1.5.jpg
 ingredients:
   - '**Wet Ingredients**'
   - ½ cup pumpkin puree
@@ -30,7 +32,7 @@ nutritional_info: ''
 cook_time: ''
 prep_time: ''
 total_time: ''
-link: >-
+source_url: >-
   https://beamingbaker.com/gluten-free-pumpkin-chocolate-chip-oatmeal-breakfast-bars-vegan-gf-dairy-free-refined-sugar-free-video/print/21444/
 difficulty: Medium
 rating: 0
@@ -38,8 +40,8 @@ tags:
   - Desserts
   - Breakfast
   - Gluten Free
+description: ''
 ---
-
 ## Directions
 
 Preheat the oven to 350°F. Line an 8-inch square baking pan with parchment paper or greased foil. Set aside.

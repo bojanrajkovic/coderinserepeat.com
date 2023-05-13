@@ -3,6 +3,8 @@ layout: recipe
 uid: 6CC89B43-0836-40E1-B7C7-044A18E191C0-38510-0000179AD49076F9
 hash: 6D6702380521953834FD57E6BC4B9CF1C7C42682CA17CE1B8C2B20B92DFBFE6A
 name: Braised Pork All’Arrabbiata
+image_url: >-
+  https://static01.nyt.com/images/2020/02/12/dining/as-pork-ragu/merlin_168480960_02083adc-f91c-4855-b746-60a1451fe792-articleLarge.jpg
 ingredients:
   - '2 to 2 ½ pounds boneless pork shoulder, trimmed of more than 1/4-inch fat'
   - Kosher salt and black pepper
@@ -15,16 +17,17 @@ ingredients:
 servings: 6 to 8
 nutritional_info: ''
 cook_time: 3 1/2 hours
+iso_cook_time: P0D
 prep_time: ''
 total_time: ''
-link: 'https://cooking.nytimes.com/recipes/1020877-braised-pork-allarrabbiata'
+source_url: 'https://cooking.nytimes.com/recipes/1020877-braised-pork-allarrabbiata'
 difficulty: Easy
 rating: 0
 tags:
   - Braises
   - Pork
+description: ''
 ---
-
 ## Directions
 
 Heat the oven to 350 degrees. Season the pork all over with 2 teaspoons salt and 1 teaspoon pepper.

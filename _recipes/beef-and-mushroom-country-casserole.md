@@ -27,7 +27,7 @@ prep_time: 10 minutes
 iso_prep_time: PT10M
 total_time: 1 hour
 iso_total_time: PT1H
-link: 'https://www.budgetbytes.com/beef-mushroom-country-casserole/'
+source_url: 'https://www.budgetbytes.com/beef-mushroom-country-casserole/'
 difficulty: Easy
 rating: 3
 tags:

@@ -3,6 +3,8 @@ layout: recipe
 uid: AED1D7D3-107E-477E-B3E2-3C77095B51BE-6735-000003AEE3A5F6B1
 hash: BE9C7525F2BF4646088B4DE5AE6A746AD35007B9DA0EFA1BE5B086B6EF490EE2
 name: Spinach Chickpea and Quinoa Salad
+image_url: >-
+  https://www.budgetbytes.com/wp-content/uploads/2018/04/Spinach-Chickpea-and-Quinoa-Salad-V1-300x400.jpg
 ingredients:
   - 2 cups cooked quinoa
   - 2 Tbsp olive oil
@@ -19,16 +21,18 @@ ingredients:
 servings: 2-4
 nutritional_info: ''
 cook_time: 15 minutes
+iso_cook_time: PT15M
 prep_time: 5 minutes
+iso_prep_time: PT5M
 total_time: ''
-link: 'https://www.budgetbytes.com/spinach-chickpea-and-quinoa-salad/'
+source_url: 'https://www.budgetbytes.com/spinach-chickpea-and-quinoa-salad/'
 difficulty: Easy
 rating: 0
 tags:
   - Salad
   - Chicken
+description: ''
 ---
-
 ## Directions
 
 While your quinoa (or other grain) is cooking, prepare the vinaigrette so it has a few minutes for the flavors to blend. In a small bowl, whisk together the olive oil, red wine vinegar, lemon juice, oregano, garlic powder, salt, and some freshly cracked pepper. Set the dressing aside.

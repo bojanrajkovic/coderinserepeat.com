@@ -3,6 +3,8 @@ layout: recipe
 uid: A175CBEC-BAEC-4050-93DE-B89D39DAD242-16196-00000A21A26C10BA
 hash: B04C410D2930D3FD84FAA347E05C0A05408F88990EF4026F8A50D0C1F9A5D126
 name: Pan-Seared Tuna with Ginger-Shiitake Cream Sauce
+image_url: >-
+  https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/gk-static/fdc-new/img/fdc-shareGraphic.png
 ingredients:
   - '6 (6 ounce) tuna steaks, 6-ounces each, 1-inch thick'
   - 2 tablespoons peanut oil
@@ -29,16 +31,18 @@ nutritional_info: |-
   Cholesterol: 161.4
   Protein: 44
 cook_time: 20mins
+iso_cook_time: P0D
 prep_time: 10 min
+iso_prep_time: P0D
 total_time: ''
-link: >-
+source_url: >-
   https://www.food.com/recipe/pan-seared-tuna-with-ginger-shiitake-cream-sauce-178165
 difficulty: Medium
 rating: 0
 tags:
   - Seafood
+description: ''
 ---
-
 ## Directions
 
 Preheat oven to 200°F Sprinkle 1 side of tuna steaks with pepper. Heat 2 tablespoons oil in heavy large skillet over high heat. Place tuna steaks, pepper side down, in hot oil and sear 2 minutes. Turn tuna over and continue cooking to desired doneness, about 2 minutes for rare. Transfer tuna to rimmed baking sheet; keep warm in oven.

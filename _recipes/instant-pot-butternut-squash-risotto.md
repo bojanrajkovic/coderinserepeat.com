@@ -3,6 +3,7 @@ layout: recipe
 uid: 4F969729-AF01-4075-9619-C8184AB70DF4-9966-000003CEFE48398A
 hash: 38B0D57DC3DC372D1627D3A21616FD5F15263CF542CDE59020EA380D7D001908
 name: Instant Pot Butternut Squash Risotto
+image_url: 'http://images.media-allrecipes.com/userphotos/960x960/5911453.jpg'
 ingredients:
   - 2 tablespoons extra-virgin olive oil
   - ½ cup chopped shallots
@@ -37,16 +38,19 @@ nutritional_info: |-
   314 mg sodium
   340 mg potassium
 cook_time: 50 m
+iso_cook_time: PT50M
 prep_time: 30 m
+iso_prep_time: PT30M
 total_time: 1h30m
-link: 'http://www.eatingwell.com/recipe/268868/instant-pot-butternut-squash-risotto/'
+iso_total_time: P0D
+source_url: 'http://www.eatingwell.com/recipe/268868/instant-pot-butternut-squash-risotto/'
 difficulty: Easy
 rating: 5
 tags:
   - Pressure Cooker
   - Risotto
+description: ''
 ---
-
 ## Directions
 
 Heat oil in a multicooker on sauté mode. Add shallots and cook, stirring, until starting to soften, about 2 minutes. Add garlic and sage; cook until fragrant, about 1 minute. Add rice, stirring to coat. Add wine and cook, stirring, until mostly absorbed, about 2 minutes. Pour in broth and then add squash, salt and pepper.

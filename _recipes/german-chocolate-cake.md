@@ -26,14 +26,14 @@ nutritional_info: ''
 cook_time: ''
 prep_time: ''
 total_time: ''
-link: ''
+source_url: ''
 difficulty: Medium
 rating: 0
 tags:
   - Desserts
   - Bakes
+description: ''
 ---
-
 ## Directions
 
 **Cake**

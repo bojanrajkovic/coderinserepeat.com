@@ -1,8 +1,10 @@
 ---
 layout: recipe
 uid: 2d88d269-b4f7-4efe-8efb-8a62939d5e2e
-hash: 395218940B611E27DFDAA8AA7BB6A3FB8B3F8AE055A93C87A660C32506C57749
+hash: E8C6D93B448F7CBC1C2AFB6B031FAC947482E7A7266088DB8C98EF7C5FDC6406
 name: Chicken Piccata
+image_url: >-
+  https://www.rachelcooks.com/wp-content/uploads/2017/10/Chicken-Piccata-Healthy-Web-2-of-4-600x879.jpg
 ingredients:
   - 1 tablespoon olive oil
   - 1.5 – 2 pounds boneless skinless chicken breasts
@@ -24,17 +26,19 @@ nutritional_info: |-
   Sugar: 1g
   Protein: 42g
 cook_time: 20 minutes
+iso_cook_time: PT20M
 prep_time: 10 minutes
+iso_prep_time: PT10M
 total_time: ''
-link: 'https://www.rachelcooks.com/2017/10/09/healthy-chicken-piccata/'
+source_url: 'https://www.rachelcooks.com/2017/10/09/healthy-chicken-piccata/'
 difficulty: Easy
 rating: 0
 tags:
   - Pressure Cooker
   - Whole 30
   - Chicken
+description: ''
 ---
-
 ## Directions
 
 Heat Instant Pot to Saute and add oil. Salt and pepper both sides of the chicken and add to hot Instant Pot. Brown chicken for about 4 minutes on each side and then remove to a plate.

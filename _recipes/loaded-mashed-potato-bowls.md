@@ -1,8 +1,10 @@
 ---
 layout: recipe
 uid: DAD1066E-64B6-4A8C-844C-164276F5CF6F-6735-000003AF35D2983B
-hash: 85027FEA92783FF1DD7D066E5E74C892732EE56026E56A792BA31E9BC485B702
+hash: B27A95EDC19272ED827739DBBBF5F40DE7C096C4FAE99261B9BFB8D2970260AA
 name: Loaded Mashed Potato Bowls
+image_url: >-
+  https://www.budgetbytes.com/wp-content/uploads/2017/12/Loaded-Mashed-Potato-Bowls-V2-300x400.jpg
 ingredients:
   - 6 cups prepared mashed potatoes
   - 2 cups frozen corn kernels
@@ -16,14 +18,15 @@ servings: '4'
 nutritional_info: ''
 cook_time: ''
 prep_time: 20 minutes
+iso_prep_time: PT20M
 total_time: ''
-link: 'https://www.budgetbytes.com/loaded-mashed-potato-bowls/'
+source_url: 'https://www.budgetbytes.com/loaded-mashed-potato-bowls/'
 difficulty: Easy
 rating: 0
 tags:
   - Budget
+description: ''
 ---
-
 ## Directions
 
 Allow the corn kernels to thaw, or heat them through if you plan to eat the bowls immediately. Rinse and drain the black beans, then add them to a bowl along with the chili powder and stir until the beans are coated.

@@ -3,6 +3,8 @@ layout: recipe
 uid: 89DEBC7B-B239-4527-B194-9827289AA886-13786-00000A1431AE4236
 hash: 00F6FC2D21EB95483CB6600E94A4627CA186737E966F909BCEB7218BFC5635E5
 name: Braised Short Rib Mushroom Sauce with Pappardelle
+image_url: >-
+  http://cdn1.girlgonegourmet.com/wp-content/uploads/2018/01/Short-Rib-Mushroom-Sauce-3-400x600.jpg
 ingredients:
   - 1 tbsp olive oil
   - '1 pound boneless beef short ribs, seasoned with kosher salt'
@@ -27,17 +29,19 @@ nutritional_info: |-
   Fiber: 4.5g
   Protein: 34.3g
 cook_time: 3 hours 45 minutes
+iso_cook_time: PT3H45M
 prep_time: 15 minutes
+iso_prep_time: PT15M
 total_time: ''
-link: 'https://www.girlgonegourmet.com/braised-short-rib-mushroom-sauce/'
+source_url: 'https://www.girlgonegourmet.com/braised-short-rib-mushroom-sauce/'
 difficulty: Easy
 rating: 0
 tags:
   - Pasta
   - Beef
   - Braises
+description: ''
 ---
-
 ## Directions
 
 Preheat oven to 350 degrees. Heat the olive oil in a large pot over medium heat. Brown the short ribs in the pot for about five minutes on each side. Remove them from the pan.

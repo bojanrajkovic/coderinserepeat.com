@@ -3,6 +3,8 @@ layout: recipe
 uid: 20cda9f5-d54d-4a98-9914-9a8cdf2402a0
 hash: 46258EDD714ADBC82C9E1B2513AB95163E00483E2DA53FAFF9DF30D764E02118
 name: Pressure Cooker Corn Soup
+image_url: >-
+  https://www.seriouseats.com/recipes/images/2015/08/20150729-pressure-cooker-corn-soup-10-200x150.jpg
 ingredients:
   - 2 tablespoons unsalted butter
   - >-
@@ -19,17 +21,19 @@ ingredients:
 servings: 4-6
 nutritional_info: ''
 cook_time: 30 minutes
+iso_cook_time: PT30M
 prep_time: 15 minutes
+iso_prep_time: PT15M
 total_time: ''
-link: >-
+source_url: >-
   https://www.seriouseats.com/recipes/2015/08/pressure-cooker-corn-soup-recipe.html
 difficulty: Medium
 rating: 5
 tags:
   - Soup
   - Pressure Cooker
+description: ''
 ---
-
 ## Directions
 
 1. Melt butter over medium heat in a pressure cooker. Add leeks and garlic and cook, stirring frequently, until softened but not browned, about 4 minutes.

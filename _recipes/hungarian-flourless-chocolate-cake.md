@@ -24,13 +24,13 @@ nutritional_info: ''
 cook_time: ''
 prep_time: ''
 total_time: ''
-link: ''
+source_url: ''
 difficulty: Easy
 rating: 0
 tags:
   - Desserts
+description: ''
 ---
-
 ## Directions
 
 **Cake**

@@ -29,7 +29,7 @@ prep_time: 45 minutes
 iso_prep_time: PT45M
 total_time: 2 hours 30 minutes
 iso_total_time: PT2H30M
-link: >-
+source_url: >-
   https://www.seriouseats.com/recipes/2014/11/baked-risotto-saffron-mozzarella-italian-recipe.html?utm_campaign=later-linkinbio-seriouseats&utm_content=later-4712206&utm_medium=social&utm_source=instagram
 difficulty: Hard
 rating: 0

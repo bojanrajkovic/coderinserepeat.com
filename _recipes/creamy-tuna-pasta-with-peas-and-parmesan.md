@@ -1,8 +1,10 @@
 ---
 layout: recipe
 uid: AAC62780-6562-424B-9179-8C9E76596387-6735-000003ACED3111B3
-hash: 184C680C89CCF0C01C6E893BAB93D35CD8DB448F295D4071CEFBA2CB2075824D
+hash: 728FE054FBC7CA631873606295F2516F18A7F5B12757ED1DF6EC8CF61F71BF8E
 name: Creamy Tuna Pasta with Peas and Parmesan
+image_url: >-
+  https://www.budgetbytes.com/wp-content/uploads/2018/06/Creamy-Tuna-Pasta-with-Peas-and-Parmesan-V1-640x853.jpg
 ingredients:
   - 8 oz. pasta
   - 2 Tbsp butter
@@ -14,17 +16,18 @@ ingredients:
 servings: '4'
 nutritional_info: ''
 cook_time: 20 minutes
+iso_cook_time: PT20M
 prep_time: ''
 total_time: ''
-link: 'https://www.budgetbytes.com/creamy-tuna-pasta-with-peas-and-parmesan/'
+source_url: 'https://www.budgetbytes.com/creamy-tuna-pasta-with-peas-and-parmesan/'
 difficulty: Easy
 rating: 4
 tags:
   - Pasta
   - Seafood
   - Budget
+description: ''
 ---
-
 ## Directions
 
 Bring a pot of water to a boil for the pasta. Once boiling, add the pasta and continue to boil until the pasta is tender. Drain the pasta in a colander.

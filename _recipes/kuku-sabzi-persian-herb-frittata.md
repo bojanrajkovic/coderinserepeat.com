@@ -3,6 +3,8 @@ layout: recipe
 uid: 20409F9E-26F1-4286-AAAA-69DFFC9E4672-6617-000042D865390D8F
 hash: 4E57C65DA55B261E753DA820DB41ED325F6BC07349D68879951F0C2D4D69441D
 name: Kuku Sabzi (Persian Herb Frittata)
+image_url: >-
+  https://static01.nyt.com/images/2019/05/15/dining/14Iranianrex1/merlin_154114479_2f72a7d4-c071-4fdd-b86c-d0b24036efc4-articleLarge.jpg
 ingredients:
   - 1 pound cilantro (about 3 large bunches)
   - 1 pound Italian parsley (about 3 large bunches)
@@ -35,16 +37,18 @@ nutritional_info: |-
   Sodium: 330 milligrams
   Trans Fat: 0 grams
 cook_time: 1 1/2 hours
+iso_cook_time: P0D
 prep_time: ''
 total_time: 2 1/2 hours
-link: 'https://cooking.nytimes.com/recipes/1020203-kuku-sabzi-persian-herb-frittata'
+iso_total_time: P0D
+source_url: 'https://cooking.nytimes.com/recipes/1020203-kuku-sabzi-persian-herb-frittata'
 difficulty: Hard
 rating: 0
 tags:
   - Middle Eastern
   - Bakes
+description: ''
 ---
-
 ## Directions
 
 Trim woody ends from cilantro, parsley and dill so that only leaves and tender stems remain. Wash herbs and romaine leaves, then use a salad spinner to dry very well. Set aside.

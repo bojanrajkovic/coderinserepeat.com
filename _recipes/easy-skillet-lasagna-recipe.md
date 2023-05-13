@@ -3,6 +3,8 @@ layout: recipe
 uid: B0B549BA-8A9D-4E09-8A78-8034536D1D39-30628-00000E20EF6F76E1
 hash: 194342559F88F22C6D280F965E5A9391821600388B91D68100854A0FB956FF92
 name: Easy Skillet Lasagna Recipe
+image_url: >-
+  https://houseofyumm.com/wp-content/uploads/2016/10/30-Minute-One-Pot-Lasagna-Skillet-6.jpg
 ingredients:
   - 1 lb. ground Italian sausage
   - 28 oz. tomato sauce
@@ -19,17 +21,19 @@ ingredients:
 servings: '6'
 nutritional_info: ''
 cook_time: 25 minutes
+iso_cook_time: PT25M
 prep_time: 5 minutes
+iso_prep_time: PT5M
 total_time: ''
-link: 'https://houseofyumm.com/easy-skillet-lasagna-recipe/'
+source_url: 'https://houseofyumm.com/easy-skillet-lasagna-recipe/'
 difficulty: Easy
 rating: 5
 tags:
   - Pasta
   - Pork
   - One Pot
+description: ''
 ---
-
 ## Directions
 
 Add the ground sausage to a large skillet and cook over medium heat while stirring. Once the sausage is mostly cooked add the diced onion to cook.

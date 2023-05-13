@@ -3,6 +3,8 @@ layout: recipe
 uid: A0A9AF51-3567-49F4-A242-25C66E717E96-38510-00001799B1517558
 hash: 8CEAF2B357A526284E4E477695FA5CCFE80CC54F6A072169E909CD93BEA90BD1
 name: Cheesy White Bean-Tomato Bake
+image_url: >-
+  https://static01.nyt.com/images/2018/10/23/dining/as-white-bean-tomato/as-white-bean-tomato-articleLarge-v2.jpg
 ingredients:
   - ¼ cup extra-virgin olive oil
   - '3 fat garlic cloves, thinly sliced'
@@ -25,15 +27,16 @@ nutritional_info: |-
   Sugar: 2 grams
   Unsaturated fat: 12 grams
 cook_time: 15 minutes
+iso_cook_time: PT15M
 prep_time: ''
 total_time: ''
-link: 'https://cooking.nytimes.com/recipes/1019681-cheesy-white-bean-tomato-bake'
+source_url: 'https://cooking.nytimes.com/recipes/1019681-cheesy-white-bean-tomato-bake'
 difficulty: Easy
 rating: 0
 tags:
   - Bakes
+description: ''
 ---
-
 ## Directions
 
 Heat the oven to 475 degrees. In a 10-inch ovenproof skillet, heat the olive oil over medium-high heat. Fry the garlic until it's lightly golden, about 1 minute. Stir in the tomato paste (be careful of splattering) and fry for 30 seconds, reducing the heat as needed to prevent the garlic from burning.

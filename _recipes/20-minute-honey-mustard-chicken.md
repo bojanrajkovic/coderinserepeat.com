@@ -1,6 +1,7 @@
 ---
+layout: recipe
 uid: 855E201D-9382-44CD-8D8D-B31B303BE0BE-6735-000003A2D8094745
-hash: CF8EA98E390B29DCFE0E495653623337630921B26DEB9F38D15389E823273B7F
+hash: E771C08DD8215518D8A81B4E1A18F5C2758B1C085BDC7AD5602F11DB76984956
 name: 20 Minute Honey Mustard Chicken
 image_url: >-
   https://www.budgetbytes.com/wp-content/uploads/2018/08/20-Minute-Honey-Mustard-Chicken-V-640x853.jpg
@@ -22,7 +23,7 @@ prep_time: 10 minutes
 iso_prep_time: PT10M
 total_time: 30 minutes
 iso_total_time: PT30M
-link: 'https://www.budgetbytes.com/20-minute-honey-mustard-chicken/'
+source_url: 'https://www.budgetbytes.com/20-minute-honey-mustard-chicken/'
 difficulty: Easy
 rating: 5
 tags:

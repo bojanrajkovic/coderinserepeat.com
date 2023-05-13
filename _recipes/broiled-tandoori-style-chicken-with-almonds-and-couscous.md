@@ -3,6 +3,8 @@ layout: recipe
 uid: 671A3268-815A-4A50-9622-80B0C71B9E0A-24213-00001160F26FF025
 hash: 15004DA724F59F860BDDC88BE5A08A81E787CD63A7D8BB06F465FBBC7937BABD
 name: Broiled Tandoori-Style Chicken with Almonds and Couscous
+image_url: >-
+  https://www.seriouseats.com/2018/08/20180726-MHT-broiling-tandoori-chicken-couscous-sideview-in-bowl-vicky-wasik-12--200x150.jpg
 ingredients:
   - 8 ounces (225g) yogurt
   - '2 ounces (60ml) fresh lemon juice, divided'
@@ -16,17 +18,19 @@ ingredients:
 servings: 2-4
 nutritional_info: ''
 cook_time: 30 minutes plus at least 1 hour marinating time
+iso_cook_time: PT30M
 prep_time: 30 minutes
+iso_prep_time: PT30M
 total_time: ''
-link: >-
+source_url: >-
   https://www.seriouseats.com/recipes/2018/10/broiled-tandoori-style-chicken-with-almonds-and-couscous.html?utm_campaign=later-linkinbio-seriouseats&utm_content=later-4767748&utm_medium=social&utm_source=instagram
 difficulty: Medium
 rating: 0
 tags:
   - Indian
   - Chicken
+description: ''
 ---
-
 ## Directions
 
 1. In a mixing bowl, stir together yogurt, 1 ounce (30ml) lemon juice, and tandoori spices. Season with salt. In a plastic zipper-top bag, combine chicken and yogurt mixture and mix thoroughly to coat. Marinate in the refrigerator for at least 1 hour and up to 8 hours.

@@ -3,6 +3,8 @@ layout: recipe
 uid: 8236c37d-a794-4d70-8ef5-7aa356f02e77
 hash: 406B79DFFC53318E7342E053C60835B99F6CA66CF0E193A37A259A3D91C63047
 name: Mustard Braised Beef
+image_url: >-
+  https://www.seriouseats.com/recipes/images/2011/11/20111115MustardBraisedBeef-200x150.jpg
 ingredients:
   - '2 1/2 pounds brisket, tied in a round with butcher’s twine'
   - 1 tablespoon ground mustard seeds
@@ -22,16 +24,18 @@ ingredients:
 servings: '4'
 nutritional_info: ''
 cook_time: '3 hours and 15 minutes, plus overnight marination'
+iso_cook_time: PT3H
 prep_time: 15 minutes
+iso_prep_time: PT15M
 total_time: ''
-link: 'https://www.seriouseats.com/recipes/2011/11/mustard-braised-beef-recipe.html'
+source_url: 'https://www.seriouseats.com/recipes/2011/11/mustard-braised-beef-recipe.html'
 difficulty: Medium
 rating: 0
 tags:
   - Beef
   - Braises
+description: ''
 ---
-
 ## Directions
 
 1. Rub the brisket all over with the mustard and thyme, wrap in plastic wrap, and refrigerate for two hours to overnight.

@@ -19,13 +19,13 @@ nutritional_info: ''
 cook_time: ''
 prep_time: ''
 total_time: ''
-link: ''
+source_url: ''
 difficulty: Medium
 rating: 0
 tags:
   - Chicken
+description: ''
 ---
-
 ## Directions
 
 In a small suace pan, combine orange juice, marmalade, vinegar, and chopped herbs. Bring mixture to a boil, then reduce heat to low and simmer 10 minutes, or until the sauce starts to thicken,

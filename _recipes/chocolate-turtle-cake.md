@@ -32,16 +32,25 @@ ingredients:
 servings: 12 cupcakes or one 8" round cake
 nutritional_info: ''
 cook_time: 30 min
+iso_cook_time: P0D
 prep_time: 30 min
+iso_prep_time: P0D
 total_time: 1 hr
-link: ''
+iso_total_time: P0D
+source_url: ''
 difficulty: Easy
 rating: 4
 tags:
   - Desserts
+description: >-
+  Everyone has a favorite cake, a cake by which you judge all others. For us,
+  that's the Chocolate Turtle Cake, a hometown bakery classic that we couldn't
+  not share with you. It all starts with a Queen of Sheba chocolate cake, a
+  bland of chocolate bits and almond flour made popular in this country by Julia
+  Child. As for the turtle, we top the cake with chocolate fudge frosting,
+  toasted pecans, and a caramel drizzle so good it might just become your
+  standard.
 ---
-Everyone has a favorite cake, a cake by which you judge all others. For us, that's the Chocolate Turtle Cake, a hometown bakery classic that we couldn't not share with you. It all starts with a Queen of Sheba chocolate cake, a bland of chocolate bits and almond flour made popular in this country by Julia Child. As for the turtle, we top the cake with chocolate fudge frosting, toasted pecans, and a caramel drizzle so good it might just become your standard.
-            
 ## Directions
 
 1. Preheat the oven to 350F. Line sides and bottom of pan with parchment paper or cupcake liners. Create a double boiler--a glass bowl placed on top of a saucepan of boiling water will do. Be sure there is space for the water to create steam underneath the bowl.

@@ -3,6 +3,8 @@ layout: recipe
 uid: 10D103E5-E352-4918-90D5-2408FB7AC936-6735-000003AAD1870E51
 hash: 4ED7A93B7F80DBC3F44A79745EFC8FE41B72510D1148B30D6C5519EE4D149A56
 name: Southwest Chicken Skillet
+image_url: >-
+  https://www.budgetbytes.com/wp-content/uploads/2014/05/Southwest-Chicken-Skillet-V1-300x400.jpg
 ingredients:
   - 1 cup uncooked long grain white rice
   - 1 cup salsa
@@ -15,15 +17,17 @@ ingredients:
 servings: 4-6
 nutritional_info: ''
 cook_time: 20 minutes
+iso_cook_time: PT20M
 prep_time: 5 minutes
+iso_prep_time: PT5M
 total_time: ''
-link: 'https://www.budgetbytes.com/southwest-chicken-skillet/'
+source_url: 'https://www.budgetbytes.com/southwest-chicken-skillet/'
 difficulty: Easy
 rating: 0
 tags:
   - Chicken
+description: ''
 ---
-
 ## Directions
 
 In a large skillet, combine the rice, salsa, chicken, black beans (drained), chili powder, and chicken broth. Stir until everything is evenly combined.

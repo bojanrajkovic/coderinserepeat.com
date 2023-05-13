@@ -21,17 +21,19 @@ ingredients:
 servings: '6'
 nutritional_info: ''
 cook_time: 3½ to 4 hours
+iso_cook_time: P0D
 prep_time: 30m
+iso_prep_time: P0D
 total_time: ''
-link: >-
+source_url: >-
   https://cooking.nytimes.com/recipes/1019034-garlic-braised-short-ribs-with-red-wine?em_pos=medium&emc=edit_ck_20180331&nl=cooking&nl_art=2&nlid=69407429emc%3Dedit_ck_20180331&ref=headline&te=1&login=email
 difficulty: Medium
 rating: 0
 tags:
   - Beef
   - Braises
+description: ''
 ---
-
 ## Directions
 
 Heat oven to 275 degrees. 

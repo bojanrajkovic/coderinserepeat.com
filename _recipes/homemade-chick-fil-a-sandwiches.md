@@ -22,17 +22,20 @@ ingredients:
 servings: '4'
 nutritional_info: ''
 cook_time: 15m
+iso_cook_time: P0D
 prep_time: 90m
+iso_prep_time: P0D
 total_time: 1h30m
-link: >-
+iso_total_time: P0D
+source_url: >-
   https://www.seriouseats.com/recipes/2012/07/homemade-chick-fil-a-sandwiches-recipe.html
 difficulty: Easy
 rating: 5
 tags:
   - Chicken
   - Fried Chicken
+description: ''
 ---
-
 ## Directions
 
 1. Dissolve 1/2 cup kosher salt (see notes!) and 1/4 cup sugar in 1 quart cold water. Place chicken breasts in brine, transfer to refrigerator, and brine for at least 6 hours, and up to overnight (see notes!).

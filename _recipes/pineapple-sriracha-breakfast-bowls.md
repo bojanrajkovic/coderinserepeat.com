@@ -3,6 +3,8 @@ layout: recipe
 uid: A47DA740-FB4C-4618-8E6C-731ED23A6A84-6735-000003A7EF14ED9C
 hash: C65EB86320782D1A3FFFA7498611CC9E38BF58EBAF416D5A214EC668C03DE934
 name: Pineapple Sriracha Breakfast Bowls
+image_url: >-
+  https://www.budgetbytes.com/wp-content/uploads/2016/01/Pineapple-Sriracha-Breakfast-Bowl-text-300x400.jpg
 ingredients:
   - 1 cup cooked rice (preferably jasmine rice)
   - 1 tsp soy sauce
@@ -15,17 +17,19 @@ ingredients:
 servings: '2'
 nutritional_info: ''
 cook_time: 5 minutes
+iso_cook_time: PT5M
 prep_time: 5 minutes
+iso_prep_time: PT5M
 total_time: ''
-link: 'https://www.budgetbytes.com/pineapple-sriracha-breakfast-bowls/'
+source_url: 'https://www.budgetbytes.com/pineapple-sriracha-breakfast-bowls/'
 difficulty: Easy
 rating: 0
 tags:
   - Breakfast
   - Asian
   - Budget
+description: ''
 ---
-
 ## Directions
 
 Reheat the cooked rice in the microwave, then season with soy sauce, sriracha, and a splash of sesame oil.

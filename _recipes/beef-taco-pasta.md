@@ -29,7 +29,7 @@ prep_time: 5 minutes
 iso_prep_time: PT5M
 total_time: 35 minutes
 iso_total_time: PT35M
-link: 'https://www.budgetbytes.com/beef-taco-pasta/'
+source_url: 'https://www.budgetbytes.com/beef-taco-pasta/'
 difficulty: Easy
 rating: 2
 tags:

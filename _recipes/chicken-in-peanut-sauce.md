@@ -3,6 +3,8 @@ layout: recipe
 uid: 15E57D6B-FFD2-4127-9419-D09412F36189-6735-000003AB3E5E59B6
 hash: 3105AB1BAFC0FD48FCC47F6C17E6F09FFC83CCC64BC6F68E0D0381EC3CE76ED9
 name: Chicken in Peanut Sauce
+image_url: >-
+  https://lh4.googleusercontent.com/-Ppd88xaRngE/UONTB2x7zcI/AAAAAAAAJNw/JRTnrtL6xCw/s640/Peanut+Chicken+front.jpg
 ingredients:
   - 2 cloves garlic
   - 2 inches fresh ginger
@@ -19,9 +21,11 @@ ingredients:
 servings: '4'
 nutritional_info: ''
 cook_time: 25 minutes
+iso_cook_time: PT25M
 prep_time: 5 minutes
+iso_prep_time: PT5M
 total_time: ''
-link: 'https://www.budgetbytes.com/chicken-in-peanut-sauce/'
+source_url: 'https://www.budgetbytes.com/chicken-in-peanut-sauce/'
 difficulty: Easy
 rating: 0
 tags:
@@ -29,8 +33,8 @@ tags:
   - Asian
   - Chicken
   - Budget
+description: ''
 ---
-
 ## Directions
 
 If you don’t have cooked jasmine rice on hand, begin cooking your rice first so it will be ready by the time the chicken and sauce are complete. To begin the sauce, mince the garlic and then peel and grate the ginger into a large skillet or pot. Saute both in the vegetable oil over medium heat for about 2 minutes or until they are soft and fragrant.

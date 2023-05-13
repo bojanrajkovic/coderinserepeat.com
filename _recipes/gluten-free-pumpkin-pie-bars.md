@@ -1,8 +1,10 @@
 ---
 layout: recipe
 uid: C165DB1F-057F-45C4-BEFD-D99D28150FCE
-hash: 21562B2B9D8EF5F1957151676DB5E980270D6AEA512EA3085000E8216AEBBB1A
+hash: E091BF761BAE1E1288F6DD0B0C335353C21D9321728FB5AC9A3929A7D97B3CCF
 name: Gluten Free Pumpkin Pie Bars
+image_url: >-
+  https://cdn.shopify.com/s/files/1/2618/8756/files/pumpkin_pie_bars_large.jpg?v=1517973504
 ingredients:
   - '**Bars**'
   - 3/4 cups of All Purpose Baking Mix
@@ -33,13 +35,13 @@ nutritional_info: ''
 cook_time: ''
 prep_time: ''
 total_time: ''
-link: 'https://thepurepantry.com/pages/gluten-free-pumpkin-pie-bars'
+source_url: 'https://thepurepantry.com/pages/gluten-free-pumpkin-pie-bars'
 difficulty: Medium
 rating: 0
 tags:
   - Desserts
+description: ''
 ---
-
 ## Directions
 
 Combine the ingredients for the lower crust, and mix them together, using your fingertips, until they make a course dough. Press this into a buttered 9″ x 12″ baking pan. Bake in a 325 degree oven for 25 minutes. Let Cool.

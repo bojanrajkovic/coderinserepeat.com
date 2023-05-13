@@ -3,6 +3,8 @@ layout: recipe
 uid: 296FBF18-C16E-4403-908A-B3EA5BC73EAD-17272-00000CE0BD1BDE45
 hash: 1406E0BDF8D87DC3365A2EFFF0AE784F7B9268574D21A8268FFF146EC93BEB05
 name: 'Ham, Potato and Leek Soup'
+image_url: >-
+  https://www.simplyrecipes.com/wp-content/uploads/2009/04/potato-ham-leek-soup-vertical-a-1800-600x797.jpg
 ingredients:
   - 2 Tbsp unsalted butter
   - >-
@@ -18,15 +20,18 @@ ingredients:
 servings: '6'
 nutritional_info: ''
 cook_time: 45 minutes
+iso_cook_time: PT45M
 prep_time: 15 minutes
+iso_prep_time: PT15M
 total_time: 1 hour
-link: 'https://www.simplyrecipes.com/recipes/ham_potato_and_leek_soup/'
+iso_total_time: PT1H
+source_url: 'https://www.simplyrecipes.com/recipes/ham_potato_and_leek_soup/'
 difficulty: Easy
 rating: 0
 tags:
   - Soup
+description: ''
 ---
-
 ## Directions
 
 1 Cook leeks in butter: Melt the butter in a large saucepan over medium heat. Add the leeks and cook, stirring occasionally, for 5 minutes, or until leeks are soft but not browned.

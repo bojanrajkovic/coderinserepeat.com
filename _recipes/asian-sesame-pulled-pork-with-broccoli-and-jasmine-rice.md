@@ -3,7 +3,6 @@ layout: recipe
 uid: 5807EF96-4DC7-457C-8572-02AC8DCF6E7C-1858-0000025F3BFDBC9A
 hash: 00BFE326E54C9BB2414EA69C51BC53F2FCA82556EBE11742B3FF7C8041E001D6
 name: Asian Sesame Pulled Pork with Broccoli and Jasmine Rice
-image_url: null
 ingredients:
   - '8 oz jasmine rice, cooked'
   - 1 1/2 fl oz sesame dressing
@@ -26,7 +25,7 @@ prep_time: 5 minutes
 iso_prep_time: PT5M
 total_time: 25 minutes
 iso_total_time: PT25M
-link: >-
+source_url: >-
   https://www.homechef.com/meals/asian-sesame-pulled-pork-with-broccoli-and-jasmine-rice
 difficulty: Easy
 rating: 0

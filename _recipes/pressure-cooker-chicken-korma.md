@@ -25,9 +25,10 @@ ingredients:
 servings: 4-6
 nutritional_info: ''
 cook_time: 35 minutes
+iso_cook_time: PT35M
 prep_time: ''
 total_time: ''
-link: >-
+source_url: >-
   https://cooking.nytimes.com/recipes/1019636-pressure-cooker-chicken-korma?action=click&module=RecirculationRibbon&pgType=recipedetails&rank=8
 difficulty: Medium
 rating: 0
@@ -35,8 +36,8 @@ tags:
   - Pressure Cooker
   - Indian
   - Chicken
+description: ''
 ---
-
 ## Directions
 
 Heat cream in a microwave or in a small pot on the stove, then add the saffron. Set it aside for 2 hours to draw out the saffron color.

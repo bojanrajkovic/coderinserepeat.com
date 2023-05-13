@@ -3,6 +3,8 @@ layout: recipe
 uid: CE69BC0C-D80D-4319-8890-7BD02F14C248-6735-000003A77F9A7614
 hash: 42DCD2BE58508374A25D23F63B705F40F0030321342147857FCE3E5E1F28E4C8
 name: Green Chile Migas
+image_url: >-
+  https://www.budgetbytes.com/wp-content/uploads/2017/09/Green-Chile-Migas-V2-300x400.jpg
 ingredients:
   - 6 corn tortillas
   - 1/2 Tbsp cooking oil
@@ -16,16 +18,19 @@ ingredients:
 servings: '4'
 nutritional_info: ''
 cook_time: 25 minutes
+iso_cook_time: PT25M
 prep_time: 10 minutes
+iso_prep_time: PT10M
 total_time: 35 minutes
-link: 'https://www.budgetbytes.com/green-chile-migas/'
+iso_total_time: PT35M
+source_url: 'https://www.budgetbytes.com/green-chile-migas/'
 difficulty: Easy
 rating: 0
 tags:
   - Mexican
   - Budget
+description: ''
 ---
-
 ## Directions
 
 Preheat the oven to 400ºF. Stack the tortillas and then cut them into six equal sized wedges. Place the tortilla wedges in a bowl and drizzle the cooking oil over top. Gently toss the tortillas until they are well coated in oil.

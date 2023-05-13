@@ -1,8 +1,10 @@
 ---
 layout: recipe
 uid: 846DFBC3-2FE2-48E1-9A0C-BF12B596AEED-10240-000004068E42AC29
-hash: 8F89FEFA5F85B724C2BBF7ADBB7210B59FC9AC7D39C341B87F4EC7871A056217
+hash: 39CD372430D16298A65B25075C7CD19BBF28259132013CB75A5515B67858D671
 name: Egg Roll in a Bowl
+image_url: >-
+  https://www.the-girl-who-ate-everything.com/wp-content/uploads/2019/03/egg-roll-in-a-bowl-7-720x720.jpg
 ingredients:
   - 1 lb (16 ounces) ground pork or beef
   - 1 teaspoon minced garlic
@@ -21,16 +23,18 @@ nutritional_info: |-
   Fiber: 1.9g
   Protein: 24.3g
 cook_time: 10 minutes
+iso_cook_time: PT10M
 prep_time: 5 minutes
+iso_prep_time: PT5M
 total_time: ''
-link: 'https://www.the-girl-who-ate-everything.com/keto-egg-roll-in-a-bowl/'
+source_url: 'https://www.the-girl-who-ate-everything.com/keto-egg-roll-in-a-bowl/'
 difficulty: Easy
-rating: 0
+rating: 5
 tags:
   - Pork
   - Asian
+description: ''
 ---
-
 ## Directions
 
 In a large skillet, brown the pork or beef until no longer pink. Add the garlic and sautee for 30 seconds. Add the cabbage/coleslaw, soy sauce, ginger, and sautee until desired tenderness. You can add a little water if you need more liquid to sautee the coleslaw down.

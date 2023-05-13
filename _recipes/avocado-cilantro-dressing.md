@@ -20,7 +20,7 @@ prep_time: 3 minutes
 iso_prep_time: PT3M
 total_time: 5 minutes
 iso_total_time: PT5M
-link: 'https://pinchofyum.com/5-minute-avocado-cilantro-dressing'
+source_url: 'https://pinchofyum.com/5-minute-avocado-cilantro-dressing'
 difficulty: Easy
 rating: 0
 tags:

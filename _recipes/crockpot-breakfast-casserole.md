@@ -3,6 +3,8 @@ layout: recipe
 uid: 92ee0e6d-ecea-4780-b35c-e487db3c91e8
 hash: 78017313041D102ED5FF4314770D6E24D04C66BCEB91EDAE72AC3500E42A4BC6
 name: Crockpot Breakfast Casserole
+image_url: >-
+  https://www.familyfreshmeals.com/wp-content/uploads/2012/01/Crockpot-Breakfast-Casserole-FamilyFreshMeals.com--160x207.png
 ingredients:
   - 1 dozen eggs
   - 1 cup milk
@@ -17,16 +19,18 @@ ingredients:
 servings: '8'
 nutritional_info: ''
 cook_time: 7 hours
+iso_cook_time: PT7H
 prep_time: 15 minutes
+iso_prep_time: PT15M
 total_time: ''
-link: 'https://www.familyfreshmeals.com/2012/01/crockpot-breakfast-casserole.html'
+source_url: 'https://www.familyfreshmeals.com/2012/01/crockpot-breakfast-casserole.html'
 difficulty: Easy
 rating: 0
 tags:
   - Breakfast
   - Crock Pot
+description: ''
 ---
-
 ## Directions
 
 Beat 12 eggs until well blended.

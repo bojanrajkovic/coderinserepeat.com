@@ -3,6 +3,8 @@ layout: recipe
 uid: D76FDAC1-44CD-45D8-B05E-2755018EA5F0-4340-000002E82B76A900
 hash: 0BC6769941D83E2392266A6FA88FD922AC8462C1A95968B5D535DD2C6190BC34
 name: 'Easy Teriyaki-Glazed Salmon, Cucumber, and Avocado Rice Bowls'
+image_url: >-
+  https://www.seriouseats.com/recipes/images/2016/06/20160702-salmon-rice-bowl3-200x150.jpg
 ingredients:
   - '4 salmon fillets, about 5 ounces (140g) each'
   - Kosher salt and freshly ground black pepper
@@ -16,17 +18,19 @@ ingredients:
 servings: '4'
 nutritional_info: ''
 cook_time: 15 minutes
+iso_cook_time: PT15M
 prep_time: 15 minutes (plus time to cook rice and sauce)
+iso_prep_time: PT15M
 total_time: ''
-link: >-
+source_url: >-
   https://www.seriouseats.com/recipes/2016/07/easy-teriyaki-glazed-salmon-cucumber-avocado-rice-bowl-recipe.html?utm_campaign=later-linkinbio-seriouseats&utm_content=later-3388525&utm_medium=social&utm_source=instagram
 difficulty: Medium
 rating: 0
 tags:
   - Seafood
   - Asian
+description: ''
 ---
-
 ## Directions
 
 1. Press salmon fillets between paper towels to dry surfaces thoroughly. Season on all sides with salt and pepper. Heat oil in a large stainless steel skillet over medium-high heat until shimmering. Add salmon fillets, skin side down. Immediately reduce heat to medium-low. Cook, pressing gently on back of fillets to ensure good contact between the skin and the pan, until skin is rendered and crisp, about 6 minutes. If skin shows resistance when you attempt to lift with a spatula, allow it to continue to cook until it lifts easily.

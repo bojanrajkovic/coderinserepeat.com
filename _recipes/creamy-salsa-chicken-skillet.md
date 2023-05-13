@@ -3,6 +3,8 @@ layout: recipe
 uid: 3233335C-A18D-4DEE-B802-0B51BFB30A7C-6735-000003A994177ADA
 hash: 1B72336311EE397CA248F2E62DBBDE42C02D9326A5A35FA65F23625B16797923
 name: Creamy Salsa Chicken Skillet
+image_url: >-
+  https://www.budgetbytes.com/wp-content/uploads/2018/08/Creamy-Salsa-Chicken-Skillet-V1-640x853.jpg
 ingredients:
   - '1 lb. boneless, skinless chicken breast'
   - 1 tsp chili powder
@@ -20,17 +22,19 @@ ingredients:
 servings: '4'
 nutritional_info: ''
 cook_time: 20 minutes
+iso_cook_time: PT20M
 prep_time: 10 minutes
+iso_prep_time: PT10M
 total_time: ''
-link: 'https://www.budgetbytes.com/creamy-salsa-chicken-skillet/'
+source_url: 'https://www.budgetbytes.com/creamy-salsa-chicken-skillet/'
 difficulty: Easy
 rating: 5
 tags:
   - Mexican
   - Chicken
   - Budget
+description: ''
 ---
-
 ## Directions
 
 Pat the chicken dry with a paper towel. Place the chicken on a cutting board and cover it with a piece of plastic wrap. Use a mallet or rolling pin to gently pound the chicken to an even thickness (about 1/2-inch thick). This step is very important to make sure the chicken cooks quickly and evenly, without drying out.

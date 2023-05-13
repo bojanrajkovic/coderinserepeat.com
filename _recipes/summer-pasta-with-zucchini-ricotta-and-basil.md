@@ -1,8 +1,10 @@
 ---
 layout: recipe
 uid: 531c1051-91c1-4d12-96df-30c39a5da09f
-hash: 384BB3EB2301BC7D68E997D11A60F3A6DCE939D9BCD448C374DEAFA10E39AEDF
+hash: FDF9BA70E47571B03782C892AD4D319B9E137DD035A0BCBF88C4569A740CC738
 name: 'Summer Pasta with Zucchini, Ricotta and Basil'
+image_url: >-
+  https://s3-us-west-2.amazonaws.com/media.gatheredtable.com/recipe_photos/2bdb93dd-62c3-41d5-9b67-bc382996f053.1024x768_q85_crop.jpg
 ingredients:
   - '5 tablespoons extra-virgin olive oil, divided'
   - '1 onion, diced'
@@ -20,13 +22,13 @@ nutritional_info: ''
 cook_time: ''
 prep_time: ''
 total_time: ''
-link: 'https://www.gatheredtable.com/recipes/940822'
+source_url: 'https://www.gatheredtable.com/recipes/940822'
 difficulty: Medium
-rating: 0
+rating: 3
 tags:
   - Pasta
+description: ''
 ---
-
 ## Directions
 
 1. In a large skillet or dutch oven, heat 2 tablespoons olive oil on medium-high heat. Add onions and cook 5 minutes, stirring.

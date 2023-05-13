@@ -22,7 +22,7 @@ prep_time: 15 minutes
 iso_prep_time: PT15M
 total_time: 8 hours
 iso_total_time: PT8H
-link: 'http://www.feedmeimhungry.com/blackberry-sage-ice-cream/'
+source_url: 'http://www.feedmeimhungry.com/blackberry-sage-ice-cream/'
 difficulty: Medium
 rating: 5
 tags:

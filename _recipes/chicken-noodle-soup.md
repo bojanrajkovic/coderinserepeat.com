@@ -3,6 +3,8 @@ layout: recipe
 uid: 0808ff59-b2dc-4894-9893-a211de7356b1
 hash: FA936F85900DFDDC42E118F501A28929BD86E4D3EC7C62B58D0AC3BDF975B030
 name: Chicken Noodle Soup
+image_url: >-
+  https://theblondcook.com/wp-content/uploads/2018/03/instant-pot-chicken-noodle-soup-2-200x300.jpg
 ingredients:
   - 2 tablespoons butter
   - 1 cup peeled and sliced carrots
@@ -24,17 +26,19 @@ ingredients:
 servings: '6'
 nutritional_info: ''
 cook_time: 30 minutes
+iso_cook_time: PT30M
 prep_time: 10 minutes
+iso_prep_time: PT10M
 total_time: ''
-link: 'https://theblondcook.com/instant-pot-chicken-noodle-soup/'
+source_url: 'https://theblondcook.com/instant-pot-chicken-noodle-soup/'
 difficulty: Medium
 rating: 0
 tags:
   - Soup
   - Pressure Cooker
   - Chicken
+description: ''
 ---
-
 ## Directions
 
 Set your Instant Pot to the saute setting. Add butter and melt. Add carrots, onions and celery and saute (stirring often) for 2 minutes. Add garlic and cook until fragrant, about 30 seconds.

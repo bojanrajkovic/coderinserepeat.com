@@ -32,9 +32,11 @@ nutritional_info: |-
   Sugars 7 g
   Protein 16 g
 cook_time: 15 mins
+iso_cook_time: P0D
 prep_time: 5 mins
+iso_prep_time: P0D
 total_time: ''
-link: 'https://www.paintthekitchenred.com/instant-pot-thai-green-curry-with-chicken/'
+source_url: 'https://www.paintthekitchenred.com/instant-pot-thai-green-curry-with-chicken/'
 difficulty: Easy
 rating: 0
 tags:
@@ -42,8 +44,8 @@ tags:
   - Thai
   - Pressure Cooker
   - Chicken
+description: ''
 ---
-
 ## Directions
 
 Press ‘Saute’ and stir in Green curry paste and 1/2 can of coconut milk until mixture is bubbly, about a minute or two.

@@ -3,6 +3,7 @@ layout: recipe
 uid: F1B5C08A-BF06-4955-9831-1D19164DCA20-18178-00001087BE176F9C
 hash: 75ECFAADE4BA538BED44EE5D415080501F440D2B2BEE02B5844F6322E5EB342E
 name: Oxtail Ragout
+image_url: 'http://www.janssushibar.com/wp-content/uploads/2013/01/Oxtail-Ragout.jpg'
 ingredients:
   - '3 tablespoons tallow or other fat suitable for high heat cooking, divided'
   - '3 pounds oxtails, joints cut into 2-inch lengths and trimmed of excess fat'
@@ -34,15 +35,15 @@ nutritional_info: |-
 cook_time: ''
 prep_time: ''
 total_time: ''
-link: 'https://www.janssushibar.com/oxtail-ragout/'
+source_url: 'https://www.janssushibar.com/oxtail-ragout/'
 difficulty: Easy
 rating: 5
 tags:
   - Pressure Cooker
   - Beef
   - Braises
+description: ''
 ---
-
 ## Directions
 
 Melt 2 tablespoons of the tallow over high heat in the pressure cooker, Sprinkle the oxtails liberally with salt and pepper, then brown in the fat, working in batches if necessary. Transfer the browned oxtails to a plate and set aside.

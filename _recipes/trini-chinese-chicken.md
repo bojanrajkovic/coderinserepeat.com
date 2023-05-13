@@ -3,6 +3,8 @@ layout: recipe
 uid: 71b7fd44-b959-4ac8-b7d5-e8d97fa3e27e
 hash: 77C921985EEF50D6503A3D3C3E3E139F33364C695FEA67E8B3D3D936691E6523
 name: Trini-Chinese Chicken
+image_url: >-
+  https://static01.nyt.com/images/2013/03/31/magazine/31eat1/31eat1-articleLarge-v2.jpg
 ingredients:
   - '8 to 10 chicken thighs, legs and wings,about 2 1/2 to 3 pounds total'
   - 2 tablespoons five-spice powder
@@ -20,9 +22,10 @@ ingredients:
 servings: 4-6
 nutritional_info: ''
 cook_time: 1 hour
+iso_cook_time: PT1H
 prep_time: ''
 total_time: ''
-link: >-
+source_url: >-
   https://cooking.nytimes.com/recipes/1014638-trini-chinese-chicken?emc=edit_ck_20190331&nl=cooking&nlid=6940742920190331&te=1
 difficulty: Medium
 rating: 0
@@ -30,8 +33,8 @@ tags:
   - Spicy
   - Asian
   - Chicken
+description: ''
 ---
-
 ## Directions
 
 In a large, nonreactive bowl, toss the chicken with five-spice powder, then with the juice of 2 of the limes, the soy sauce and the ginger. Cover and marinate in the refrigerator for at least 30 minutes and up to 6 hours.

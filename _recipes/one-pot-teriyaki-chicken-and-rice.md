@@ -3,6 +3,8 @@ layout: recipe
 uid: 2FA07C20-8739-4566-BA5B-FF3C78F28328-7118-0000047F63B0D69A
 hash: D6118DB8734CBD2FAFA60DA4CD4FC4DC1362E910972B778FE0A21719EEAC78B4
 name: One Pot Teriyaki Chicken and Rice
+image_url: >-
+  https://www.budgetbytes.com/wp-content/uploads/2019/05/One-Pot-Teriyaki-Chicken-and-Rice-skillet-V1-640x854.jpg
 ingredients:
   - '1 boneless, skinless chicken breast (about 2/3 lb.)'
   - 1 Tbsp cooking oil
@@ -18,16 +20,18 @@ ingredients:
 servings: '4'
 nutritional_info: ''
 cook_time: 30 mins
+iso_cook_time: P0D
 prep_time: 5 mins
+iso_prep_time: P0D
 total_time: ''
-link: 'https://www.budgetbytes.com/one-pot-teriyaki-chicken-and-rice/'
+source_url: 'https://www.budgetbytes.com/one-pot-teriyaki-chicken-and-rice/'
 difficulty: Easy
 rating: 0
 tags:
   - Chicken
   - Budget
+description: ''
 ---
-
 ## Directions
 
 Cut the chicken breast into very small pieces, about 1/2 to 3/4-inch in size.

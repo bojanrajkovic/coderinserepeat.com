@@ -3,6 +3,8 @@ layout: recipe
 uid: 4C70E453-0A9A-4159-B030-07DE11BB29A7-4036-00000332AC37A8E7
 hash: 002250C2D3FB2124F4AA6C95D2E19887B471E186D2BEDB4DD247548D1F5521A2
 name: Classic Meat Loaf Sandwiches with Tomato Jam
+image_url: >-
+  https://foodschmooze.org/wp-content/uploads/2018/05/Classic-Meat-Loaf-Sandwiches-with-Tomato-Jam_recipe_c-David-Malosh-600x567.jpg
 ingredients:
   - 2 tablespoons extra virgin olive oil
   - 1 large onion finely chopped
@@ -22,14 +24,16 @@ servings: '8'
 nutritional_info: ''
 cook_time: ''
 prep_time: 20 min
+iso_prep_time: P0D
 total_time: 20 min
-link: 'https://foodschmooze.org/recipe/classic-meat-loaf-sandwiches-with-tomato-jam/'
+iso_total_time: P0D
+source_url: 'https://foodschmooze.org/recipe/classic-meat-loaf-sandwiches-with-tomato-jam/'
 difficulty: Easy
 rating: 5
 tags:
   - Beef
+description: ''
 ---
-
 ## Directions
 
 Preheat the oven to 350°F. Line a large rimmed baking sheet with aluminum foil.

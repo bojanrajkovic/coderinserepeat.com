@@ -3,6 +3,8 @@ layout: recipe
 uid: 4D607A59-B29E-437A-99FD-2951D51F63EC-6735-000003AF17800202
 hash: 679DAA2B2AC1D29970A2894ED15B65F80DAACF55B6E485A96E1176FD55FD3E17
 name: Spicy Roasted Cauliflower with Cheese Sauce
+image_url: >-
+  https://www.budgetbytes.com/wp-content/uploads/2018/01/Spicy-Roasted-Cauliflower-with-Cheese-Sauce-V2-300x400.jpg
 ingredients:
   - '**For the cauliflower**'
   - 1/2 Tbsp smoked paprika
@@ -19,16 +21,18 @@ ingredients:
 servings: 2-4
 nutritional_info: ''
 cook_time: 30 minutes
+iso_cook_time: PT30M
 prep_time: 5 minutes
+iso_prep_time: PT5M
 total_time: ''
-link: 'https://www.budgetbytes.com/spicy-roasted-cauliflower-cheese-sauce/'
+source_url: 'https://www.budgetbytes.com/spicy-roasted-cauliflower-cheese-sauce/'
 difficulty: Easy
 rating: 0
 tags:
   - Spicy
   - Sauces
+description: ''
 ---
-
 ## Directions
 
 Preheat the oven to 400ºF. In a small bowl combine the smoked paprika, garlic powder, cayenne, salt, and some freshly cracked pepper.

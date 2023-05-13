@@ -3,6 +3,8 @@ layout: recipe
 uid: 325F21E9-022D-43BF-BAF6-07115A76303E-22464-0000139F9F1657EA
 hash: 2D062C6171803F3C257D05CF43058105CE71E8E59FB3BF96C6317C0D4ADD8DD7
 name: Shrimp and Grits
+image_url: >-
+  https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Fcdn-image.myrecipes.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedium_2x%2Fpublic%2Fimage%2Frecipes%2Fsl%2F04%2F04%2Fcrooks-corner-shrimp-grits-x.jpg%3Fitok%3DCcKn38ue&w=450&c=sc&poi=face&q=85
 ingredients:
   - 2 cups water
   - 1 (14-ounce) can chicken broth
@@ -31,13 +33,13 @@ nutritional_info: ''
 cook_time: ''
 prep_time: ''
 total_time: ''
-link: 'https://www.myrecipes.com/recipe/crooks-corner-shrimp-grits'
+source_url: 'https://www.myrecipes.com/recipe/crooks-corner-shrimp-grits'
 difficulty: Easy
 rating: 5
 tags:
   - Seafood
+description: ''
 ---
-
 ## Directions
 
 Bring first 4 ingredients to a boil in a medium saucepan; gradually whisk in grits. Reduce heat, and simmer, stirring occasionally, 10 minutes or until thickened. Add Cheddar cheese and next 4 ingredients. Keep warm.

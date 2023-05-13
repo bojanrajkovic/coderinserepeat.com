@@ -1,8 +1,10 @@
 ---
 layout: recipe
 uid: 4653CAC4-F4B9-44E6-94DC-0D33F1753F56-6557-00000392498B9E25
-hash: 1A74392180C4E9803EAF893F2CE77C25C5E8027F60E1FF41F25FAB3C5745E95A
+hash: 1BED851D09E4D18388E5602EB31070327524A78F6E7D17A6A067B08C840360CF
 name: Easy One-Skillet Sausage and Peppers with Rice
+image_url: >-
+  https://www.averiecooks.com/wp-content/uploads/2015/11/sausagerice-4-105x158.jpg
 ingredients:
   - 3 tablespoons olive oil
   - '1 pound hot Italian sausage, de-cased'
@@ -29,16 +31,18 @@ nutritional_info: |-
   SUGAR: 9g
   PROTEIN: 27g
 cook_time: 20 minutes
+iso_cook_time: PT20M
 prep_time: 10 minutes
+iso_prep_time: PT10M
 total_time: ''
-link: 'https://www.averiecooks.com/easy-one-skillet-sausage-and-peppers-with-rice/'
+source_url: 'https://www.averiecooks.com/easy-one-skillet-sausage-and-peppers-with-rice/'
 difficulty: Easy
-rating: 0
+rating: 5
 tags:
   - Spicy
   - Pork
+description: ''
 ---
-
 ## Directions
 
 To a large skillet, add the olive oil, sausage, onion, and sauté for about 8 minutes over medium-high heat, or until sausage is cooked through and onions are lightly golden browned. Stir and flip intermittently.

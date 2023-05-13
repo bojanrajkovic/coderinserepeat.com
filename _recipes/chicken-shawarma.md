@@ -3,6 +3,8 @@ layout: recipe
 uid: 499e4c3e-e3ef-48e4-b89d-4ce1ede5369e
 hash: A9D0414E83C6C1B3C01112077B191DB2EF196B85E77F4CF1346CF55E44AE2130
 name: Chicken Shawarma
+image_url: >-
+  https://littlebitsof.com/wp-content/uploads/2017/07/instant-pot-chicken-shawarma-3-450x675.png
 ingredients:
   - 1-1.5 pounds boneless skinless chicken breasts
   - 1-1.5 pounds boneless skinless chicken thighs
@@ -20,15 +22,15 @@ nutritional_info: ''
 cook_time: ''
 prep_time: ''
 total_time: ''
-link: 'https://littlebitsof.com/2017/07/instant-pot-chicken-shawarma/'
+source_url: 'https://littlebitsof.com/2017/07/instant-pot-chicken-shawarma/'
 difficulty: Easy
 rating: 0
 tags:
   - Pressure Cooker
   - Middle Eastern
   - Chicken
+description: ''
 ---
-
 ## Directions
 
 Slice chicken breasts and thighs into strips and place into your instant pot.

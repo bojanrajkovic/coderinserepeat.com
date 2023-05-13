@@ -3,6 +3,8 @@ layout: recipe
 uid: 2DCAD323-23EA-4533-9910-39E9A84F9838-38510-00001799EDB622D3
 hash: 63C081B155DCB469A208ED631996BFE558A07F0496DBB792EACE32509C3CFEC1
 name: Spicy White Bean Stew with Broccoli Rabe
+image_url: >-
+  https://static01.nyt.com/images/2020/01/01/dining/30roman1/merlin_162384363_89ca756b-53f5-4676-a253-cb4adffffba5-articleLarge.jpg
 ingredients:
   - >-
     1 large bunch (or 2 small bunches) broccoli rabe or kale, thick stems
@@ -26,17 +28,18 @@ ingredients:
 servings: '4'
 nutritional_info: ''
 cook_time: 40 minutes
+iso_cook_time: PT40M
 prep_time: ''
 total_time: ''
-link: >-
+source_url: >-
   https://cooking.nytimes.com/recipes/1020754-spicy-white-bean-stew-with-broccoli-rabe
 difficulty: Medium
 rating: 0
 tags:
   - Spicy
   - Stew
+description: ''
 ---
-
 ## Directions
 
 Tear broccoli rabe or kale leaves into bite-size pieces and set aside. Chop the stems into about 1/4-inch pieces; set aside.

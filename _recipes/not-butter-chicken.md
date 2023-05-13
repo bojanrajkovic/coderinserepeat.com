@@ -26,7 +26,7 @@ prep_time: 10 minutes
 iso_prep_time: PT10M
 total_time: 1 hour 30 minutes
 iso_total_time: PT1H30M
-link: 'https://www.budgetbytes.com/not-butter-chicken/'
+source_url: 'https://www.budgetbytes.com/not-butter-chicken/'
 difficulty: Easy
 rating: 0
 tags:

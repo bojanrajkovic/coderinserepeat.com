@@ -3,6 +3,8 @@ layout: recipe
 uid: 12F9A864-FEE5-488C-A258-F7E571270D47
 hash: 3489403C9623B2C9C6D4F2CC8E13C7DA661E82CBC579E03A4808BA5A0C2FCDF0
 name: Togarashi Popcorn Chicken
+image_url: >-
+  https://media.blueapron.com/recipes/2860/ingredient_images/1519843456-1-0071-0246/0402_ING_2PRE07_large_feature.png
 ingredients:
   - 10 oz Chopped Chicken Breast
   - ½ cup Jasmine Rice
@@ -20,9 +22,10 @@ ingredients:
 servings: '2'
 nutritional_info: 670 calories
 cook_time: 25 min
+iso_cook_time: P0D
 prep_time: ''
 total_time: ''
-link: >-
+source_url: >-
   https://www.blueapron.com/recipes/togarashi-popcorn-chicken-with-sweet-chili-cabbage-slaw
 difficulty: Medium
 rating: 0
@@ -30,8 +33,8 @@ tags:
   - Japanese
   - Asian
   - Chicken
+description: ''
 ---
-
 ## Directions
 
 **Prepare the ingredients**

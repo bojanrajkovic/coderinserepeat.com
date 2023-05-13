@@ -23,15 +23,24 @@ nutritional_info: |-
 cook_time: ''
 prep_time: ''
 total_time: 25-35 minutes
-link: 'https://www.homechef.com/meals/ginger-steak-and-peppers'
+source_url: 'https://www.homechef.com/meals/ginger-steak-and-peppers'
 difficulty: Easy
 rating: 0
 tags:
   - Beef
   - Asian
+description: >-
+  Ginger: Not just a character on Gilligan's Island. Ginger has its own unique
+  and intangible flavor, managing to be both zesty and sweet. In this meal, it
+  combines perfectly with the kick of gochujang, pungent garlic, and sweet
+  teriyaki, forming the perfect of flavor combination for the steak and peppers,
+  like Batman and Robin. Had enough 60s TV references for one meal description?
+  This meal comes together so easy, you'll just twitch your nose and it'll
+  appear. (Ok, maybe not that easy; there's no Elizabeth Montgomery in your
+  box.) Tip: Make quick work of mincing garlic by smashing the whole clove with
+  the side of your chef's knife. Then rock the knife back and forth, keeping the
+  tip steady by resting your other hand over the top.
 ---
-Ginger: Not just a character on Gilligan's Island. Ginger has its own unique and intangible flavor, managing to be both zesty and sweet. In this meal, it combines perfectly with the kick of gochujang, pungent garlic, and sweet teriyaki, forming the perfect of flavor combination for the steak and peppers, like Batman and Robin. Had enough 60s TV references for one meal description? This meal comes together so easy, you'll just twitch your nose and it'll appear. (Ok, maybe not that easy; there's no Elizabeth Montgomery in your box.) Tip: Make quick work of mincing garlic by smashing the whole clove with the side of your chef's knife. Then rock the knife back and forth, keeping the tip steady by resting your other hand over the top.
-            
 ## Directions
 
 **Cook the Rice**

@@ -1,8 +1,10 @@
 ---
 layout: recipe
 uid: ED866607-5B5E-47C5-96FC-A80993E25215-12912-0000064E144D7F5C
-hash: 8D38B6DFDD2E26E1572404C30DEFCE2B5F5A37F17BE649C3117786C2C0A1333C
+hash: E117A2262572052A82087FA8E2CFB4E3CE558EC3FCE457A40D56807F1A1FEA94
 name: Easy Cauliflower and Chickpea Masala
+image_url: >-
+  https://www.budgetbytes.com/wp-content/uploads/2019/01/Cauliflower-and-Chickpea-Masala-V2-640x854.jpg
 ingredients:
   - 2 Tbsp garam masala
   - 1/2 tsp cumin
@@ -24,16 +26,18 @@ ingredients:
 servings: '4'
 nutritional_info: ''
 cook_time: 30 mins
+iso_cook_time: P0D
 prep_time: 10 mins
+iso_prep_time: P0D
 total_time: ''
-link: 'https://www.budgetbytes.com/easy-cauliflower-and-chickpea-masala/'
+source_url: 'https://www.budgetbytes.com/easy-cauliflower-and-chickpea-masala/'
 difficulty: Medium
-rating: 0
+rating: 5
 tags:
   - Indian
   - Budget
+description: ''
 ---
-
 ## Directions
 
 In a small bowl, combine the spices for the masala spice mix (garam masala, cumin, turmeric, smoked paprika, cayenne, salt, and pepper).

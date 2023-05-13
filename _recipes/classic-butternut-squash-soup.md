@@ -3,6 +3,8 @@ layout: recipe
 uid: A4A487AF-747D-472F-842B-07C0DE3285F0-13557-0000089C4F22E1A1
 hash: C48A7CF1D1B0B6283FCC189254A97D0C35C3FB6ECA3FD06C464EA9C0AA157E61
 name: Classic Butternut Squash Soup
+image_url: >-
+  https://www.seriouseats.com/recipes/images/2016/10/20161025-butternut-squash-soup-vicky-wasik-3-200x150.jpg
 ingredients:
   - >-
     1 (2 1/2–pound; 1kg) butternut squash, peeled, seeded, and cut into 1-inch
@@ -26,16 +28,18 @@ ingredients:
 servings: '6'
 nutritional_info: ''
 cook_time: 1 hour 45 minutes
+iso_cook_time: PT1H45M
 prep_time: 30 minutes
+iso_prep_time: PT30M
 total_time: ''
-link: >-
+source_url: >-
   https://www.seriouseats.com/recipes/2016/11/classic-butternut-squash-soup-recipe.html
 difficulty: Medium
 rating: 5
 tags:
   - Soup
+description: ''
 ---
-
 ## Directions
 
 1. Preheat oven to 425°F (230°C). Toss squash and carrot with olive oil and arrange on 2 rimmed baking sheets, being sure not to overcrowd the sheets. Roast until squash and carrot are very well browned on a couple of sides, about 40 minutes; use a thin metal spatula to turn pieces 2 or 3 times during cooking. Set aside.

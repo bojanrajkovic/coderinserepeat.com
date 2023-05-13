@@ -19,14 +19,14 @@ nutritional_info: ''
 cook_time: ''
 prep_time: ''
 total_time: ''
-link: ''
+source_url: ''
 difficulty: Medium
 rating: 0
 tags:
   - Desserts
   - Bakes
+description: ''
 ---
-
 ## Directions
 
 Preheat oven to 350F. In a large mixing bowl, combine the coconut butter or margarine with almond butter, using an electric mixer, until smooth.

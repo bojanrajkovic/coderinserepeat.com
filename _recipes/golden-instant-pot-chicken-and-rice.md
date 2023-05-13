@@ -25,16 +25,18 @@ ingredients:
 servings: 4-6
 nutritional_info: ''
 cook_time: 45 minutes
+iso_cook_time: PT45M
 prep_time: 15 minutes
+iso_prep_time: PT15M
 total_time: ''
-link: 'https://www.wellplated.com/golden-instant-pot-chicken-and-rice/'
+source_url: 'https://www.wellplated.com/golden-instant-pot-chicken-and-rice/'
 difficulty: Easy
 rating: 5
 tags:
   - Pressure Cooker
   - Chicken
+description: ''
 ---
-
 ## Directions
 
 1. Set a 6-quart or larger Instant Pot to SAUTE mode. Add the coconut oil. Once hot and shimmering, add the onion and cook, stirring occasionally, until beginning to soften, about 4 minutes.

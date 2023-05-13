@@ -3,6 +3,8 @@ layout: recipe
 uid: 51A089C4-45E4-4CDF-961F-997819EFA371-9966-000003CF3B7D63ED
 hash: A62131601081502189F94D366F8D97A92DBB0A9298FEA77FF86CD04B05FC9C3C
 name: Instant Pot Potato Leek Soup
+image_url: >-
+  https://www.simplyhappyfoodie.com/wp-content/uploads/2017/10/instant-pot-potato-leek-soup-1-206x300.jpg
 ingredients:
   - 2 Tbsp Olive Oil
   - 3 Tbsp Butter
@@ -25,16 +27,19 @@ ingredients:
 servings: '6'
 nutritional_info: 'Calories: 244 kcal'
 cook_time: 7 mins
+iso_cook_time: P0D
 prep_time: 20 mins
+iso_prep_time: P0D
 total_time: 30m
-link: 'https://www.simplyhappyfoodie.com/instant-pot-potato-leek-soup/'
+iso_total_time: P0D
+source_url: 'https://www.simplyhappyfoodie.com/instant-pot-potato-leek-soup/'
 difficulty: Easy
 rating: 5
 tags:
   - Soup
   - Pressure Cooker
+description: ''
 ---
-
 ## Directions
 
 Press the Sauté button on the Instant Pot. When the display reads 'Hot', add the oil and butter.

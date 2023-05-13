@@ -1,9 +1,8 @@
 ---
 layout: recipe
 uid: 29222db3-8166-4a20-9080-cf0a3b222ab0
-hash: E0C6CF95291F1337FC5B8A951D9D0313D23512AE3E784DA07D2539C02384440D
+hash: 6AF18088EC83F8CA081CDD385E2F58B1AA66F780E80ED8359A7195C23AAF6BC7
 name: Baked Skillet Pasta with Cheddar and Spiced Onions
-image_url: null
 ingredients:
   - 6 Tbsp extra-virgin olive oil
   - '3 large onions, thinly sliced'
@@ -38,10 +37,10 @@ prep_time: 30 minutes
 iso_prep_time: PT30M
 total_time: 1 hour 45 minutes
 iso_total_time: PT1H45M
-link: >-
+source_url: >-
   https://cooking.nytimes.com/recipes/1019853-baked-skillet-pasta-with-cheddar-and-spiced-onions?emc=edit_ck_20190106&nl=cooking&nlid=6940742920190106&te=1
 difficulty: Medium
-rating: 0
+rating: 4
 tags:
   - Pasta
   - Bakes

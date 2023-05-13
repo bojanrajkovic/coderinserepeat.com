@@ -1,8 +1,10 @@
 ---
 layout: recipe
 uid: 0a4a1e6a-e563-47d9-bbd6-cebbfed2280a
-hash: 98D3B5ABF9D4D48E423914AB02F9FB8DC4107E0904DA59319ED42678B19FEB5A
+hash: 0802D69FFF2CC7F405376CF31AB3768BAFDADFD26B41CFCED402CBD489E53145
 name: Serious Eats' Halal Cart-Style Chicken and Rice with White Sauce
+image_url: >-
+  https://www.seriouseats.com/recipes/images/2011/12/20111205-ctb-halal-chicken-rice-primary-200x150.jpg
 ingredients:
   - '**For the chicken**'
   - 2 tablespoons lemon juice
@@ -40,17 +42,19 @@ ingredients:
 servings: 4-6
 nutritional_info: ''
 cook_time: 1 hour
+iso_cook_time: PT1H
 prep_time: 45 minutes
+iso_prep_time: PT45M
 total_time: ''
-link: >-
+source_url: >-
   https://www.seriouseats.com/recipes/2011/12/serious-eats-halal-cart-style-chicken-and-rice-white-sauce-recipe.html
 difficulty: Medium
-rating: 0
+rating: 3
 tags:
   - Middle Eastern
   - Chicken
+description: ''
 ---
-
 ## Directions
 
 1. For the chicken: Combine the lemon juice, oregano, coriander, garlic, and olive oil in a blender. Blend until smooth. Season the marinade to taste with kosher salt and black pepper. Place the chicken in a 1-gallon zipper-lock bag and add half of the marinade (reserve the remaining marinade in the refrigerator). Turn the chicken to coat, seal the bag, and marinate the chicken in the refrigerator for at least 1 hour and up to 4 hours, turning occasionally to redistribute the marinade (see Note).

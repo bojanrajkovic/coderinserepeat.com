@@ -21,7 +21,7 @@ prep_time: 5 minutes
 iso_prep_time: PT5M
 total_time: 1 hour 30 minutes
 iso_total_time: PT1H30M
-link: 'https://www.budgetbytes.com/bacon-broccoli-cheddar-crustless-quiche/'
+source_url: 'https://www.budgetbytes.com/bacon-broccoli-cheddar-crustless-quiche/'
 difficulty: Easy
 rating: 0
 tags:

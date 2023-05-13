@@ -3,6 +3,8 @@ layout: recipe
 uid: 0F51F5B6-B2D8-4A54-80C4-A0F6260ABDAC-29367-00001100421DF180
 hash: ECC821F7915E8EE7B1BB3957562B9A684D548B35054CDD67D7713EF622B06726
 name: Roasted-Parsnip Bread Pudding
+image_url: >-
+  https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fassets.marthastewart.com%2Fd25%2Fmd105195_1109_brdpudd_069%2Fmd105195_1109_brdpudd_069_hd.jpg&w=382&h=508.06&c=sc&poi=face&q=85
 ingredients:
   - '1 pound parsnips, peeled and cut into 1/2-inch pieces'
   - 'Extra-virgin olive oil, for drizzling'
@@ -22,16 +24,19 @@ ingredients:
 servings: '8'
 nutritional_info: ''
 cook_time: 90m
+iso_cook_time: P0D
 prep_time: 30m
+iso_prep_time: P0D
 total_time: 2h
-link: 'https://www.marthastewart.com/335713/roasted-parsnip-bread-pudding'
+iso_total_time: P0D
+source_url: 'https://www.marthastewart.com/335713/roasted-parsnip-bread-pudding'
 difficulty: Easy
 rating: 5
 tags:
   - Bakes
   - Bread
+description: ''
 ---
-
 ## Directions
 
 Preheat oven to 425 degrees. Drizzle parsnips with oil, and season with salt and pepper. Arrange on a rimmed baking sheet. Roast, shaking occasionally, until caramelized and tender, 23 to 25 minutes. Let cool. Reduce heat to 375.

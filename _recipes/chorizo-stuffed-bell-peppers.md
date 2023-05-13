@@ -3,6 +3,8 @@ layout: recipe
 uid: DBCE42CE-025C-4FF5-943C-7CFC973E5944-6735-000003ABEDB71BD4
 hash: 5C1CFF8C37E79E610D2ED6289D4D08C884F3592E040B77521480D8A4C8127351
 name: Chorizo Stuffed Bell Peppers
+image_url: >-
+  https://www.budgetbytes.com/wp-content/uploads/2018/03/Chorizo-Stuffed-Bell-Peppers-V1-300x400.jpg
 ingredients:
   - 1/2 lb. Mexican Chorizo
   - 2 cups cooked rice
@@ -16,9 +18,11 @@ ingredients:
 servings: '6'
 nutritional_info: ''
 cook_time: 55 minutes
+iso_cook_time: PT55M
 prep_time: 10 minutes
+iso_prep_time: PT10M
 total_time: ''
-link: 'https://www.budgetbytes.com/chorizo-stuffed-bell-peppers/'
+source_url: 'https://www.budgetbytes.com/chorizo-stuffed-bell-peppers/'
 difficulty: Easy
 rating: 0
 tags:
@@ -26,8 +30,8 @@ tags:
   - Bakes
   - Pork
   - Budget
+description: ''
 ---
-
 ## Directions
 
 Preheat the oven to 350ºF. Add the chorizo to a skillet and sauté over medium heat until fully cooked. Remove it from the heat.

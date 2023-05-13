@@ -3,6 +3,8 @@ layout: recipe
 uid: 6E896CED-F4D6-4358-8419-37CD726BF749-6735-000003A7B6184709
 hash: DD29908254BA780FD0359285C5B34BEE06F0C68E4AE7BA3E74B56EDA438768C1
 name: Cheddar Grits Breakfast Bowls
+image_url: >-
+  https://www.budgetbytes.com/wp-content/uploads/2016/09/Cheddar-Grits-Breakfast-Bowls-V-eat2-300x400.jpg
 ingredients:
   - 4 cups water
   - 1 tsp salt
@@ -17,16 +19,18 @@ ingredients:
 servings: '4'
 nutritional_info: ''
 cook_time: 20 minutes
+iso_cook_time: PT20M
 prep_time: 10 minutes
+iso_prep_time: PT10M
 total_time: ''
-link: 'https://www.budgetbytes.com/cheddar-grits-breakfast-bowls/'
+source_url: 'https://www.budgetbytes.com/cheddar-grits-breakfast-bowls/'
 difficulty: Easy
 rating: 0
 tags:
   - Breakfast
   - Budget
+description: ''
 ---
-
 ## Directions
 
 Add the water and salt to a medium sauce pot. Place a lid on top, turn the heat on to high, and bring the water up to a rolling boil. Once boiling, stir in the grits. Turn the heat down to low, replace the lid, and let simmer for 5-7 minutes, or until thickened.

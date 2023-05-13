@@ -3,6 +3,8 @@ layout: recipe
 uid: 17821149-0EBD-4F50-97CD-8E86589E3D54-4288-000002E6B2F1AAD0
 hash: 85AFCC1C0A0F0FCD74AF020F70C36BD00FFABF32D0D54CC55ECA285090C5B2F1
 name: Manicotti
+image_url: >-
+  https://assets.bonappetit.com/photos/588a19652866f36a6c66e497/16:9/w_1880,c_limit/manicotti.jpg
 ingredients:
   - '**Crepe Batter**'
   - 6 large eggs
@@ -22,14 +24,14 @@ nutritional_info: ''
 cook_time: ''
 prep_time: ''
 total_time: ''
-link: 'https://www.bonappetit.com/recipe/manicotti'
+source_url: 'https://www.bonappetit.com/recipe/manicotti'
 difficulty: Medium
 rating: 5
 tags:
   - Bakes
   - Italian
+description: ''
 ---
-
 ## Directions
 
 Crepe Batter

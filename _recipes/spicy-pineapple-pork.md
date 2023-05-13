@@ -23,16 +23,18 @@ ingredients:
 servings: '6'
 nutritional_info: ''
 cook_time: 1 hour
+iso_cook_time: PT1H
 prep_time: 20 mins
+iso_prep_time: P0D
 total_time: ''
-link: 'https://nomnompaleo.com/instant-pot-spicy-pineapple-pork'
+source_url: 'https://nomnompaleo.com/instant-pot-spicy-pineapple-pork'
 difficulty: Easy
 rating: 0
 tags:
   - Pressure Cooker
   - Pork
+description: ''
 ---
-
 ## Directions
 
 Trim and discard the extra fat from the pork roast and cut it into 2-inch cubes. (If all the available roasts are extra fatty at the butcher counter, buy a slightly larger one so you’ll end up with 3 pounds of meat.)

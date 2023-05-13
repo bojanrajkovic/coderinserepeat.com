@@ -3,6 +3,8 @@ layout: recipe
 uid: 5901608D-95A1-463F-9D87-39B06AB7FDA6-6735-000003A7CA75B2CA
 hash: BE178EAEB67979AA6953278BE7EC6D62B7CED89B53FD953A515DCA7B769C83CB
 name: Ultimate Southwest Scrambled Eggs
+image_url: >-
+  https://www.budgetbytes.com/wp-content/uploads/2016/07/Ultimate-Southwest-Scrambled-Eggs-Vs-300x400.jpg
 ingredients:
   - 8 large eggs
   - 1/4 cup milk
@@ -17,16 +19,18 @@ ingredients:
 servings: '4'
 nutritional_info: ''
 cook_time: 15 minutes
+iso_cook_time: PT15M
 prep_time: 10 minutes
+iso_prep_time: PT10M
 total_time: ''
-link: 'https://www.budgetbytes.com/ultimate-southwest-scrambled-eggs/'
+source_url: 'https://www.budgetbytes.com/ultimate-southwest-scrambled-eggs/'
 difficulty: Easy
 rating: 0
 tags:
   - Breakfast
   - Budget
+description: ''
 ---
-
 ## Directions
 
 Rinse the can of beans in a colander and let drain as you prepare the eggs.

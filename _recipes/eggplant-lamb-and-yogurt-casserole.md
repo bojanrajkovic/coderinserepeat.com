@@ -3,6 +3,8 @@ layout: recipe
 uid: 57A19567-5C4A-4AD8-9704-4135DEFEE15F-55618-00002415F6A91410
 hash: BAA50268223F66A7E4F5EF250C2A617EDD702D4DA55C10ACCF24BD7C24FE14C6
 name: 'Eggplant, Lamb and Yogurt Casserole'
+image_url: >-
+  https://static01.nyt.com/images/2019/04/24/dining/19ottorex/19ottorex-articleLarge.jpg
 ingredients:
   - '*FOR THE EGGPLANT AND LAMB MIXTURE*'
   - >-
@@ -42,17 +44,18 @@ nutritional_info: |-
   Saturated fat: 18 grams
   Sodium: 1547 milligrams
 cook_time: 2 hours
+iso_cook_time: PT2H
 prep_time: ''
 total_time: ''
-link: 'https://cooking.nytimes.com/recipes/1020154-eggplant-lamb-and-yogurt-casserole'
+source_url: 'https://cooking.nytimes.com/recipes/1020154-eggplant-lamb-and-yogurt-casserole'
 difficulty: Medium
 rating: 0
 tags:
   - Middle Eastern
   - Bakes
   - Lamb
+description: ''
 ---
-
 ## Directions
 
 Heat the oven to 450 degrees Fahrenheit/240 degrees Celsius.

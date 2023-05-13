@@ -1,7 +1,7 @@
 ---
 layout: recipe
 uid: 0685BFD8-5B83-4A65-9276-0BCA05F4BD0D-7710-0000040E41B9CD58
-hash: 67C892A1F938E6AD3E43F4F479085B220A7EDCE6A1A182E6D0D969A1A64F91B0
+hash: 105EFB77EC271BAFC31FCDC9D27235CE7DC47210114A29019B78D41CB1C44678
 name: Garden Vegetable Lasagna Roll Ups
 ingredients:
   - 1 lb lasagna noodles
@@ -20,16 +20,18 @@ ingredients:
 servings: '4'
 nutritional_info: ''
 cook_time: 40 mins
+iso_cook_time: P0D
 prep_time: 30 mins
+iso_prep_time: P0D
 total_time: ''
-link: 'https://www.budgetbytes.com/garden-vegetable-lasagna-roll-ups/'
+source_url: 'https://www.budgetbytes.com/garden-vegetable-lasagna-roll-ups/'
 difficulty: Easy
-rating: 0
+rating: 5
 tags:
   - Pasta
   - Bakes
+description: ''
 ---
-
 ## Directions
 
 Boil a large pot of water. Once the water is boiling, add the lasagna noodles and boil just until tender. Drain the pasta in a colander and set aside.

@@ -3,6 +3,7 @@ layout: recipe
 uid: 8909F385-AF0D-403E-92AB-34993300D303-4130-000002D2C7F719AE
 hash: 8245E7BE8F446C29FEE08DD3AD930B024E742444D3EBF3AB9565DD8FDD2211A6
 name: Swordfish with Onion Jam
+image_url: 'https://s3.amazonaws.com/cdn.legalseafoods.com/images/recipes/5.jpg'
 ingredients:
   - 3 tablespoons Olive Oil (plus more for the fish)
   - 2.5 lbs Red Onions (julienned)
@@ -14,15 +15,17 @@ ingredients:
 servings: '4'
 nutritional_info: ''
 cook_time: 40 minutes
+iso_cook_time: PT40M
 prep_time: 5 minutes
+iso_prep_time: PT5M
 total_time: ''
-link: 'https://shop.legalseafoods.com/recipe_view/swordfish-onion-jam'
+source_url: 'https://shop.legalseafoods.com/recipe_view/swordfish-onion-jam'
 difficulty: Easy
 rating: 0
 tags:
   - Seafood
+description: ''
 ---
-
 ## Directions
 
 Heat the oil in a large skillet. Add the onions. Cook over medium-high heat for 5 minutes. Do not stir. Lower the heat and cook for 20 minutes longer, only stirring to prevent scorching. The onions should be browned and reduced in volume. Add 1/2 cup water and continue cooking for 10 minutes longer. Add the vinegar and sugar. Bring the mixture to a boil and let cook for 15 minutes, stirring often. The onions will achieve a jamlike consistency. Cool to room temperature before serving. Season with salt and pepper to taste.

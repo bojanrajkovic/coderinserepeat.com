@@ -3,6 +3,8 @@ layout: recipe
 uid: f3a2785d-c900-4cf5-87ce-b2852abb7cd9
 hash: 71FA2DA77B43EA350CB7F33A04E341B127DCA263230C41BBACE15B5F2C7EE11A
 name: Stir-Fried Beef with Snap Peas and Oyster Sauce
+image_url: >-
+  https://www.seriouseats.com/recipes/images/2014/06/20140513-beef-snow-pea-stir-fry-oyster-sauce-recipe-9-200x150.jpg
 ingredients:
   - '**For the Beef**'
   - '1 pound skirt steak of flap meat, thinly sliced against the grain'
@@ -29,17 +31,19 @@ ingredients:
 servings: '4'
 nutritional_info: ''
 cook_time: 30 minutes
+iso_cook_time: PT30M
 prep_time: 30 minutes
+iso_prep_time: PT30M
 total_time: ''
-link: >-
+source_url: >-
   https://www.seriouseats.com/recipes/2014/07/stir-fried-beef-skirt-steak-snap-peas-oyster-sauce-recipe.html
 difficulty: Medium
 rating: 0
 tags:
   - Beef
   - Asian
+description: ''
 ---
-
 ## Directions
 
 1. For the Beef: Combine beef, salt, sugar, soy sauce, wine, sesame oil, baking soda, and cornstarch in a small bowl and toss to combine. Set aside for 20 minutes.

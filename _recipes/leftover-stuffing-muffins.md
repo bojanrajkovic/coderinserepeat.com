@@ -3,6 +3,8 @@ layout: recipe
 uid: 92172D89-7D1F-4E66-BE2A-C91FE1213D29-6735-000003ADDFB407FC
 hash: 21466D9C06CAF86FE7E0EB4B0A08F533D6B249FF44C7ED97A4542FF25ABC28D9
 name: Leftover Stuffing Muffins
+image_url: >-
+  https://www.budgetbytes.com/wp-content/uploads/2014/11/Leftover-Stuffin-Muffins-text-300x400.jpg
 ingredients:
   - 3 cups precooked stuffing or dressing
   - 1 cup chopped turkey or ham
@@ -14,15 +16,18 @@ ingredients:
 servings: '12'
 nutritional_info: ''
 cook_time: 25 minutes
+iso_cook_time: PT25M
 prep_time: 15 minutes
+iso_prep_time: PT15M
 total_time: 50 minutes
-link: 'https://www.budgetbytes.com/leftover-stuffin-muffins/'
+iso_total_time: PT50M
+source_url: 'https://www.budgetbytes.com/leftover-stuffin-muffins/'
 difficulty: Easy
 rating: 0
 tags:
   - Bakes
+description: ''
 ---
-
 ## Directions
 
 Preheat the oven to 375 degrees. Thaw and squeeze the spinach dry. Add the stuffing, turkey, and spinach to a bowl, then stir lightly to combine without breaking up the stuffing too much.

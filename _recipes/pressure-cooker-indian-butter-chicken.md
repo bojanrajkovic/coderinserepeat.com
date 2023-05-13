@@ -3,6 +3,8 @@ layout: recipe
 uid: C5E4EC94-0E2D-4BB2-A2BE-8D6149B05B78-21579-0000134FBAF724D8
 hash: D5DE29714B37052B258D23F9AD74D51E7E6FE7C65581EB6A19AD3A758ECB1B42
 name: Pressure Cooker Indian Butter Chicken
+image_url: >-
+  https://www.pressurecookingtoday.com/wp-content/uploads/2014/04/Butter-Chicken-2-Pressure-Cooking-Today-300x201.jpg
 ingredients:
   - 10 boneless skinless chicken thighs
   - 2 (14-ounce) cans diced tomatoes and juice
@@ -24,16 +26,18 @@ ingredients:
 servings: 6-8
 nutritional_info: ''
 cook_time: 5 minutes
+iso_cook_time: PT5M
 prep_time: 15 minutes
+iso_prep_time: PT15M
 total_time: ''
-link: 'https://www.pressurecookingtoday.com/pressure-cooker-indian-butter-chicken/'
+source_url: 'https://www.pressurecookingtoday.com/pressure-cooker-indian-butter-chicken/'
 difficulty: Easy
 rating: 0
 tags:
   - Pressure Cooker
   - Indian
+description: ''
 ---
-
 ## Directions
 
 Cut the chicken pieces into quarters.

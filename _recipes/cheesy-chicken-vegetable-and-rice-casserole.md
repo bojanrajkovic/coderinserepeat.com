@@ -3,6 +3,8 @@ layout: recipe
 uid: 2747D990-B440-404E-AC5F-ABC6CFC7DB35-6735-000003AA14DA0837
 hash: 190283AF3720931897E93F0148E4FAEDD7FC24CCB5ED0904599736EFB6100D27
 name: Cheesy Chicken Vegetable and Rice Casserole
+image_url: >-
+  https://www.budgetbytes.com/wp-content/uploads/2017/02/Cheesy-Chicken-Vegetable-and-Rice-Casserole-V1-300x400.jpg
 ingredients:
   - 1/2 lb frozen broccoli florets
   - '1 boneless, skinless chicken breast (about 2/3 lb.)'
@@ -22,17 +24,19 @@ ingredients:
 servings: '6'
 nutritional_info: ''
 cook_time: 55 minutes
+iso_cook_time: PT55M
 prep_time: 15 minutes
+iso_prep_time: PT15M
 total_time: ''
-link: 'https://www.budgetbytes.com/cheesy-chicken-vegetable-rice-casserole/'
+source_url: 'https://www.budgetbytes.com/cheesy-chicken-vegetable-rice-casserole/'
 difficulty: Easy
 rating: 5
 tags:
   - Bakes
   - Chicken
   - Budget
+description: ''
 ---
-
 ## Directions
 
 Take the broccoli out of the freezer and allow it to begin to thaw. Once it's soft enough to cut with a knife, cut the florets into smaller, bite-sized pieces.

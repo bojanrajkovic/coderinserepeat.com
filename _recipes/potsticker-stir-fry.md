@@ -3,6 +3,8 @@ layout: recipe
 uid: 4E60E1DC-0D4C-43FC-9F3A-C489F0F9D03A-28340-00001EAA9C55CD9E
 hash: E12B4AD87278BE666A81F63C92283DA7FD706F87D9148EC5921611C35263078C
 name: Potsticker Stir-Fry
+image_url: >-
+  https://nomnompaleo.com/wp-content/uploads/2017/12/400SquarePotStickerStirFryaapotsfDSC_6623.jpg
 ingredients:
   - '1 tablespoon ghee, avocado oil, or high temp fat of choice'
   - '2 medium carrots, peeled and finely diced'
@@ -21,16 +23,18 @@ ingredients:
 servings: '6'
 nutritional_info: ''
 cook_time: 25 mins
+iso_cook_time: P0D
 prep_time: 20 mins
+iso_prep_time: P0D
 total_time: ''
-link: 'https://nomnompaleo.com/pot-sticker-stir-fry'
+source_url: 'https://nomnompaleo.com/pot-sticker-stir-fry'
 difficulty: Medium
 rating: 4
 tags:
   - Pork
   - Paleo
+description: ''
 ---
-
 ## Directions
 
 In a 12-inch (or larger) skillet over medium heat, melt the ghee. Once it’s hot, toss in the carrots, shallots, and mushrooms.

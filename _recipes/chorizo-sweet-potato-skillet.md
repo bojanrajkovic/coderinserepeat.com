@@ -1,8 +1,10 @@
 ---
 layout: recipe
 uid: 2359D0FF-F16D-4334-A385-A9175322A3EC-6735-000003AC5F63CE8F
-hash: F40FBE9F6AE7C22C684DFC6864A3B5C5287DA7D5B2E2985251415A5D809447C9
+hash: F117330272795CF32D89DD676656C09E5DC4FDC6F03DA5D9CA10A144407D2A03
 name: Chorizo Sweet Potato Skillet
+image_url: >-
+  https://www.budgetbytes.com/wp-content/uploads/2014/06/Chorizo-Sweet-Potato-Skillet-V1-300x400.jpg
 ingredients:
   - 1 Tbsp olive oil
   - 1 sweet potato (1 lb.)
@@ -16,17 +18,19 @@ ingredients:
 servings: '6'
 nutritional_info: ''
 cook_time: 45 minutes
+iso_cook_time: PT45M
 prep_time: 10 minutes
+iso_prep_time: PT10M
 total_time: ''
-link: 'https://www.budgetbytes.com/chorizo-sweet-potato-skillet/'
+source_url: 'https://www.budgetbytes.com/chorizo-sweet-potato-skillet/'
 difficulty: Easy
 rating: 5
 tags:
   - Mexican
   - Pork
   - Budget
+description: ''
 ---
-
 ## Directions
 
 Peel and dice the sweet potato into 1/2 to 3/4 inch cubes (size matters, make them small). Sauté the sweet potato cubes in a large skillet with olive oil over medium heat for about 5 minutes, or until the sweet potatoes have softened about half way through (they'll cook more later).

@@ -3,6 +3,8 @@ layout: recipe
 uid: 51A9F110-B70C-435C-987C-5F10F8388C58-6735-000003AF53D9A414
 hash: 75A24B67A064770B41681884F19207943D66B4929DC0258EBFAAAE96347CADEB
 name: Wild Rice and Vegetable Casserole
+image_url: >-
+  https://www.budgetbytes.com/wp-content/uploads/2017/11/Wild-Rice-and-Vegetabel-Casserole-V1-Recovered-300x400.jpg
 ingredients:
   - 4 Tbsp butter
   - 1 onion
@@ -23,16 +25,18 @@ ingredients:
 servings: '4'
 nutritional_info: ''
 cook_time: 50 minutes
+iso_cook_time: PT50M
 prep_time: 10 minutes
+iso_prep_time: PT10M
 total_time: ''
-link: 'https://www.budgetbytes.com/wild-rice-vegetable-casserole/'
+source_url: 'https://www.budgetbytes.com/wild-rice-vegetable-casserole/'
 difficulty: Easy
 rating: 5
 tags:
   - Bakes
   - Budget
+description: ''
 ---
-
 ## Directions
 
 Preheat the oven to 350ºF. Finely dice the onion and mince the garlic. Add the butter, onions, and garlic to a large pot and sauté over medium heat until the onions are soft and transparent.

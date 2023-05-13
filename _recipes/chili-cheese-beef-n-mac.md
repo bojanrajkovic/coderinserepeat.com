@@ -3,6 +3,8 @@ layout: recipe
 uid: 44E01D1A-15D4-4FCE-8A6B-5A2FC7C1061C-6735-000003A9590DC981
 hash: E8A12769D2172F1D618E24D2C59775C02ED14363AAF036861007AB63D0C1AD58
 name: Chili Cheese Beef 'n' Mac
+image_url: >-
+  https://lh6.googleusercontent.com/-qbgg4QKH9KI/T7LTM4HNqvI/AAAAAAAAG5M/2OZZzfHws1g/s640/Chili+Cheese+Beef+n+Mac+scene.jpg
 ingredients:
   - 1 Tbsp olive oil
   - 1 lb. ground beef
@@ -19,17 +21,18 @@ ingredients:
 servings: '6'
 nutritional_info: ''
 cook_time: 35 minutes
+iso_cook_time: PT35M
 prep_time: ''
 total_time: ''
-link: 'https://www.budgetbytes.com/chili-cheese-beef-n-mac/'
+source_url: 'https://www.budgetbytes.com/chili-cheese-beef-n-mac/'
 difficulty: Easy
 rating: 4
 tags:
   - Pasta
   - Beef
   - Budget
+description: ''
 ---
-
 ## Directions
 
 Brown the ground beef in a large pot over medium along with 1 Tbsp of olive oil. Once browned, drain off the excess fat. While the beef is browning, dice the onion and mince the garlic.

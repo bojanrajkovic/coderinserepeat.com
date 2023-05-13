@@ -22,15 +22,15 @@ nutritional_info: ''
 cook_time: 6 1/2 to 8 1/2 hours
 prep_time: ''
 total_time: ''
-link: >-
+source_url: >-
   https://cooking.nytimes.com/recipes/1017937-mississippi-roast?emc=edit_ck_20180919&nl=cooking&nlid=6940742920180919&te=1
 difficulty: Medium
 rating: 0
 tags:
   - Beef
   - Roasts
+description: ''
 ---
-
 ## Directions
 
 Place roast on a cutting board and rub the salt and pepper all over it. Sprinkle the flour all over the seasoned meat and massage it into the flesh.

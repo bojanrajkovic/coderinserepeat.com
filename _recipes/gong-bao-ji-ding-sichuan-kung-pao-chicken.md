@@ -3,6 +3,8 @@ layout: recipe
 uid: D23769C3-8610-4DFE-8EEB-0823519D576E-9943-0000075C095CEEE3
 hash: D96A6E29DC19AF52012FF627B5D301871A7258736C40719288EAC6FF318573DF
 name: Gong Bao Ji Ding (Sichuan Kung Pao Chicken)
+image_url: >-
+  https://www.seriouseats.com/recipes/images/2017/08/20170821-kung-pao-chicken-gong-bao-ji-ding-food-lab-2-02-200x150.jpg
 ingredients:
   - '**For the chicken**'
   - >-
@@ -34,9 +36,12 @@ ingredients:
 servings: '2'
 nutritional_info: ''
 cook_time: 15 minutes
+iso_cook_time: PT15M
 prep_time: 15 minutes
+iso_prep_time: PT15M
 total_time: 30 minutes
-link: >-
+iso_total_time: PT30M
+source_url: >-
   https://www.seriouseats.com/recipes/2017/08/gong-bao-ji-ding-sichuan-kung-pow-chicken-recipe.html
 difficulty: Hard
 rating: 0
@@ -44,8 +49,8 @@ tags:
   - Spicy
   - Asian
   - Chicken
+description: ''
 ---
-
 ## Directions
 
 1. For the Chicken: Combine chicken, wine, soy sauce, cornstarch, and salt in a small bowl and turn until well mixed and chicken is evenly coated in a thin film of the cornstarch paste. Set aside.

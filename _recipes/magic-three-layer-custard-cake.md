@@ -3,6 +3,8 @@ layout: recipe
 uid: 5F2C13E9-754A-4045-9E9E-44FD786577FD-2586-0000026BC43D93E1
 hash: F041AAE1843E6DD4871F148339DEF1811A716EA13058368A341E59FA7849156B
 name: Magic Three Layer Custard Cake
+image_url: >-
+  https://www.recipetineats.com/wp-content/uploads/2015/04/Magic-Cake-Whole-Cake_680px-650x979.jpg
 ingredients:
   - '**For the cake**'
   - '4 eggs , yolks and whites separated (at room temperature)'
@@ -35,14 +37,14 @@ nutritional_info: |-
 cook_time: ''
 prep_time: ''
 total_time: ''
-link: 'https://www.recipetineats.com/magic-3-layer-custard-cake/'
+source_url: 'https://www.recipetineats.com/magic-3-layer-custard-cake/'
 difficulty: Hard
 rating: 0
 tags:
   - Desserts
   - Bakes
+description: ''
 ---
-
 ## Directions
 
 Preheat oven to 325F/160C (standard oven / fan forced or convection)

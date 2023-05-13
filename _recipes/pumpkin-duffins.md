@@ -3,6 +3,8 @@ layout: recipe
 uid: 03268A0B-7EEA-4E2C-841B-3BC215C6608E
 hash: 77406F8A3BD7AC071F6DB56F5CA60AA5B51F4D7A5E9D62AC53DC6A2747590F74
 name: Pumpkin Duffins
+image_url: >-
+  https://images.food52.com/5vbVXOFWspJRZ9g5fIwVhdCAtH4=/1536x1022/6b9a0c4d-9672-490e-8de9-e43cd3e215d4--duffins.jpg
 ingredients:
   - '**Muffins**'
   - 1/2 cup sugar
@@ -30,15 +32,15 @@ nutritional_info: ''
 cook_time: ''
 prep_time: ''
 total_time: ''
-link: 'https://food52.com/recipes/38862-pumpkin-duffins'
+source_url: 'https://food52.com/recipes/38862-pumpkin-duffins'
 difficulty: Easy
 rating: 5
 tags:
   - Desserts
   - Breakfast
   - Bread
+description: ''
 ---
-
 ## Directions
 
 Preheat oven to 350°F and prepare a muffin tin with baking Pam (loooove the baking Pam), or grease and flour.

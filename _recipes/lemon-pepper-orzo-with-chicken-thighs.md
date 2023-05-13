@@ -23,17 +23,18 @@ nutritional_info: |-
   Fat: 26.6g
   Protein: 35.7g
 cook_time: 25 minutes
+iso_cook_time: PT25M
 prep_time: ''
 total_time: ''
-link: 'https://www.yayforfood.com/recipes/instant-pot-lemon-pepper-orzo-chicken'
+source_url: 'https://www.yayforfood.com/recipes/instant-pot-lemon-pepper-orzo-chicken'
 difficulty: Medium
 rating: 0
 tags:
   - Pasta
   - Pressure Cooker
   - Chicken
+description: ''
 ---
-
 ## Directions
 
 Dry chicken with paper towels and lightly season both sides of the chicken thighs with salt and pepper.

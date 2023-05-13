@@ -15,16 +15,17 @@ ingredients:
 servings: '4'
 nutritional_info: ''
 cook_time: About 15 minutes
+iso_cook_time: P0D
 prep_time: ''
 total_time: ''
-link: >-
+source_url: >-
   https://cooking.nytimes.com/recipes/1015193-cajun-style-broiled-shrimp?em_pos=medium&emc=edit_ck_20180331&nl=cooking&nl_art=4&nlid=69407429emc%3Dedit_ck_20180331&ref=headline&te=1
 difficulty: Easy
 rating: 0
 tags:
   - Seafood
+description: ''
 ---
-
 ## Directions
 
 Turn on the broiler, and put the rack close to heat.

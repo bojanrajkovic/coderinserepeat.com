@@ -1,7 +1,9 @@
 ---
+layout: recipe
 uid: AC26EDCD-5A42-4328-A034-F6F406FA011F-16259-000010DD78802B5F
 hash: BC412309305DABD046595DB2569DDF21320340FF1C1891D01FBBF8444AF0B47C
 name: Tishpishti
+image_url: 'https://toriavey.com/images/2010/03/Tishpishti-624x621.jpg'
 ingredients:
   - '**Syrup**'
   - 2 cups sugar
@@ -30,16 +32,18 @@ nutritional_info: |-
   Potassium 170mg
   Vitamin A
 cook_time: 35 minutes
+iso_cook_time: PT35M
 prep_time: 15 minutes
+iso_prep_time: PT15M
 total_time: ''
-link: 'https://toriavey.com/toris-kitchen/tishpishti/'
+source_url: 'https://toriavey.com/toris-kitchen/tishpishti/'
 difficulty: Medium
 rating: 0
 tags:
   - Desserts
   - Bakes
+description: ''
 ---
-
 ## Directions
 
 First, prepare the syrup. Place all syrup ingredients in a small saucepan and bring to a boil. Simmer on medium high for 15 minutes. Remove from heat and let the syrup return to room temperature while you are preparing the cake.

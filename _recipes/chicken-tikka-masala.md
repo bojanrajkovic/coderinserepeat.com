@@ -3,6 +3,8 @@ layout: recipe
 uid: c43b3d13-16db-42fe-a76d-9f9cd2d62395
 hash: F3E05A3FBA4A72FBB746BAF425CE726F62B72EF0FE3A1CEF60FD46E3390F5ABE
 name: Chicken Tikka Masala
+image_url: >-
+  https://www.wellplated.com/wp-content/uploads/2018/01/Healthy-Instant-Pot-Chicken-Tikka-Masala-500x553@2x.jpg
 ingredients:
   - '2 pounds boneless, skinless chicken breasts, cut into bite-size pieces'
   - '1 1/2 teaspoons kosher salt, divided'
@@ -35,17 +37,19 @@ nutritional_info: |-
   Sugar: 5g
   Protein: 36g
 cook_time: 50 minutes
+iso_cook_time: PT50M
 prep_time: 10 minutes
+iso_prep_time: PT10M
 total_time: ''
-link: 'https://www.wellplated.com/instant-pot-chicken-tikka-masala/'
+source_url: 'https://www.wellplated.com/instant-pot-chicken-tikka-masala/'
 difficulty: Easy
 rating: 0
 tags:
   - Pressure Cooker
   - Indian
   - Chicken
+description: ''
 ---
-
 ## Directions
 
 Season the chicken with 1 teaspoon kosher salt and set aside.

@@ -3,6 +3,8 @@ layout: recipe
 uid: 7EADDDD3-162C-4795-B33E-30DB45D8902C-14805-00000A0B9C858845
 hash: A3FFDCE9DBB82ECD58D2E55A39D093E64FBFE80C0CEAC4FB6F43A73671472CD4
 name: The Best Chocolate Chip Cookies
+image_url: >-
+  https://www.seriouseats.com/recipes/images/2015/12/20131213-chocolate-chip-cookies-food-lab-55-edit-750x563.jpg
 ingredients:
   - 8 ounces unsalted butter (2 sticks; 225g)
   - 1 standard ice cube (about 2 tablespoons; 30mL frozen water)
@@ -22,17 +24,19 @@ ingredients:
 servings: About 28 cookies
 nutritional_info: ''
 cook_time: 1 day
+iso_cook_time: P1D
 prep_time: 30 minutes
+iso_prep_time: PT30M
 total_time: ''
-link: >-
+source_url: >-
   https://www.seriouseats.com/recipes/2013/12/the-food-lab-best-chocolate-chip-cookie-recipe.html
 difficulty: Easy
 rating: 0
 tags:
   - Desserts
   - Bakes
+description: ''
 ---
-
 ## Directions
 
 1. Melt butter in a medium saucepan over medium-high heat. Cook, gently swirling pan constantly, until particles begin to turn golden brown and butter smells nutty, about 5 minutes. Remove from heat and continue swirling the pan until the butter is a rich brown, about 15 seconds longer. Transfer to a medium bowl, whisk in ice cube, transfer to refrigerator, and allow to cool completely, about 20 minutes, whisking occasionally. (Alternatively, whisk over an ice bath to hasten the process.)

@@ -3,6 +3,8 @@ layout: recipe
 uid: DA0AA4F8-6595-4FD0-B1F6-E2ED703AE80A-80669-000038214BD94231
 hash: EE5E9B49A9D541190424F271674B02037684A7667A5285A88E1896E766E8939E
 name: The Food Lab's Creamed Spinach
+image_url: >-
+  https://www.seriouseats.com/recipes/images/2015/10/20151021-cremed-spinach-recipe-750x563.jpg
 ingredients:
   - 3 tablespoons unsalted butter
   - '2 medium shallots, finely minced (about 1/2 cup)'
@@ -18,17 +20,19 @@ ingredients:
 servings: '4'
 nutritional_info: ''
 cook_time: 2 hours
+iso_cook_time: PT2H
 prep_time: 30 minutes
+iso_prep_time: PT30M
 total_time: ''
-link: >-
+source_url: >-
   https://www.seriouseats.com/recipes/2015/10/food-lab-creamed-spinach-recipe.html
 difficulty: Medium
 rating: 5
 tags:
   - Sauces
   - Braises
+description: ''
 ---
-
 ## Directions
 
 1. Melt the butter in a Dutch oven or large saucepan over medium-high heat. Add the shallots and garlic and cook, stirring, until softened, about 2 minutes. Add the spinach in four batches, turning each batch with tongs or a rubber spatula and allowing it to wilt before adding the next.

@@ -3,6 +3,8 @@ layout: recipe
 uid: 3B52DDE9-DEB8-4AD0-AEA4-494222C71C91-6735-000003AC49446D0A
 hash: E7D443EB1F8D98687529AF89B36A4647B21FC347E3F96C64836F63A3492ACF9B
 name: Blackberry Sage Pork Chops
+image_url: >-
+  https://www.budgetbytes.com/wp-content/uploads/2015/04/Blackberry-Sage-Pork-Chops-text-300x400.jpg
 ingredients:
   - 4 thin center cut pork chops
   - pinch of salt and pepper
@@ -16,16 +18,18 @@ ingredients:
 servings: '4'
 nutritional_info: ''
 cook_time: 25 minutes
+iso_cook_time: PT25M
 prep_time: 5 minutes
+iso_prep_time: PT5M
 total_time: ''
-link: 'https://www.budgetbytes.com/blackberry-sage-pork-chops/'
+source_url: 'https://www.budgetbytes.com/blackberry-sage-pork-chops/'
 difficulty: Medium
 rating: 0
 tags:
   - Pork
   - Budget
+description: ''
 ---
-
 ## Directions
 
 Take the chops out of the refrigerator and let them warm on the countertop for about 10 minutes. Remove them from the package, pat dry with a paper towel, then season both sides of each chop with a pinch of salt and pepper.

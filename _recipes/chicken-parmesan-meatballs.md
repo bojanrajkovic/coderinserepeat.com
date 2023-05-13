@@ -3,6 +3,8 @@ layout: recipe
 uid: 64C4B584-CF02-4806-9AF5-B180B2A2E57C-2927-00000221EB6B7187
 hash: B070075D42330E8FEB5DEF2779A354153B30923B58C9653B434040AFA099C008
 name: Chicken Parmesan Meatballs
+image_url: >-
+  http://altonbrown.com/wp-content/uploads/2017/06/alton-brown-chicken-parm-meatballs_200.jpg
 ingredients:
   - '3 ounces panko crumbs, divided'
   - '4 ounces Parmesan cheese, grated, divided'
@@ -21,14 +23,14 @@ nutritional_info: ''
 cook_time: ''
 prep_time: ''
 total_time: ''
-link: 'https://altonbrown.com/chicken-parmesan-meatballs-recipe/'
+source_url: 'https://altonbrown.com/chicken-parmesan-meatballs-recipe/'
 difficulty: Medium
 rating: 5
 tags:
   - Italian
   - Chicken
+description: ''
 ---
-
 ## Directions
 
 Heat the oven to 400 degrees F.

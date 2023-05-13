@@ -25,13 +25,13 @@ nutritional_info: ''
 cook_time: ''
 prep_time: ''
 total_time: ''
-link: ''
+source_url: ''
 difficulty: Easy
 rating: 4
 tags:
   - Salad
+description: ''
 ---
-
 ## Directions
 
 Combine all the salad ingredients except the shallots and EVOO in a bowl.

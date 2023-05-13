@@ -1,8 +1,10 @@
 ---
 layout: recipe
 uid: 0DFD8B16-DE0A-4432-9E5E-64EA6DB90060-1038-0000004BBFADD886
-hash: E4CB1278A6A9DE628DEDC0A9E31555832995FF0BD073914D8CE68E38D40615FE
+hash: BC9399CA98BF3415868AD1D9857CD59FD9EA6DD8BB8254AA927913C0EF8CDB66
 name: Smoky Barbecue Beans
+image_url: >-
+  https://www.seriouseats.com/recipes/images/2016/08/20160812-scrapcook-barbecue-beans1-200x150.jpg
 ingredients:
   - '1 pound (450g) dried pinto beans, picked over'
   - Kosher salt
@@ -26,9 +28,11 @@ ingredients:
 servings: 8-12
 nutritional_info: ''
 cook_time: 1 1/2 hours (using a pressure cooker) or up to 1 day (on the stovetop)
+iso_cook_time: P0D
 prep_time: 20 minutes
+iso_prep_time: PT20M
 total_time: ''
-link: >-
+source_url: >-
   https://www.seriouseats.com/recipes/2016/08/smoky-barbecue-bbq-beans-recipe.html
 difficulty: Medium
 rating: 5
@@ -36,8 +40,8 @@ tags:
   - Soup
   - Pressure Cooker
   - Braises
+description: ''
 ---
-
 ## Directions
 
 1. To Cook on the Stovetop: Place beans in a large bowl and cover with water by at least 2 inches. Add 1 tablespoon salt, stir to dissolve, and let beans stand on the countertop overnight.

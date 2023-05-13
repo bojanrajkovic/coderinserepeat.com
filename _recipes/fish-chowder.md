@@ -3,6 +3,7 @@ layout: recipe
 uid: 206699E6-085A-43A5-8A57-EB83D4286BA3-38510-0000179BA1866E77
 hash: F411B3F4514BD0DEAE5847091A5BC0CDAD795D514C67202AC9EC01641ECACA18
 name: Fish Chowder
+image_url: 'https://images.media-allrecipes.com/userphotos/560x315/229538.jpg'
 ingredients:
   - 2 tablespoons butter
   - 2 cups chopped onion
@@ -27,16 +28,18 @@ nutritional_info: |-
   83 mg cholesterol
   748 mg sodium
 cook_time: 30 m
+iso_cook_time: PT30M
 prep_time: 30 m
+iso_prep_time: PT30M
 total_time: ''
-link: 'https://www.allrecipes.com/recipe/12732/fish-chowder/'
+source_url: 'https://www.allrecipes.com/recipe/12732/fish-chowder/'
 difficulty: Easy
 rating: 0
 tags:
   - Soup
   - Seafood
+description: ''
 ---
-
 ## Directions
 
 In a large stockpot, melt 2 tablespoons butter over medium heat. Saute onions, mushrooms and celery in butter until tender.

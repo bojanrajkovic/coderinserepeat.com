@@ -3,6 +3,8 @@ layout: recipe
 uid: F65E9650-1C38-420A-A318-52BAA4A5B612-6735-000003AD12D677E1
 hash: 5104343FB5D42642B0AC7CF140486CD89DBC0D76D5DF927F9BE50D9C9FC08C65
 name: Rice Cooker Teriyaki Shrimp and Rice
+image_url: >-
+  https://www.budgetbytes.com/wp-content/uploads/2018/09/Rice-Cooker-Teriyaki-Shrimp-and-Rice-V-640x853.jpg
 ingredients:
   - 1/2 lb. raw medium shrimp (41/50 size)
   - 1 small onion
@@ -16,16 +18,19 @@ ingredients:
 servings: 2-4
 nutritional_info: ''
 cook_time: 30 minutes
+iso_cook_time: PT30M
 prep_time: 10 minutes
+iso_prep_time: PT10M
 total_time: 1h
-link: 'https://www.budgetbytes.com/rice-cooker-teriyaki-shrimp-and-rice/'
+iso_total_time: P0D
+source_url: 'https://www.budgetbytes.com/rice-cooker-teriyaki-shrimp-and-rice/'
 difficulty: Medium
 rating: 0
 tags:
   - Seafood
   - Asian
+description: ''
 ---
-
 ## Directions
 
 If your shrimp is frozen, thaw it first by placing in a colander and running cool water over it until thawed (this only takes a few minutes).

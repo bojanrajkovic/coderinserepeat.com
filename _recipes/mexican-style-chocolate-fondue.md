@@ -13,13 +13,13 @@ nutritional_info: ''
 cook_time: ''
 prep_time: ''
 total_time: ''
-link: ''
+source_url: ''
 difficulty: Easy
 rating: 0
 tags:
   - Desserts
+description: ''
 ---
-
 ## Directions
 
 1. Steep cream and cinammon in a double boiler over medium heat until perfumed, about 20 minutes. Remove and discard the cinammon. Add chocolate and ancho powder and stir until melted and smooth. Transfer the chocolate mixture to a fondue pot and keep warm over a low flame. Serve with a selection of dippers.

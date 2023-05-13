@@ -3,6 +3,8 @@ layout: recipe
 uid: 2522741B-B48F-4FF4-B969-0D8B4BF5EC87-14375-000009B5DFD34331
 hash: E818C26BC1BABD94FAE7F9E7824E0A02330214F5AC1FF84A7AC85764EAEB0348
 name: Chipotle Chili and Cornbread Dumplings
+image_url: >-
+  https://img.buzzfeed.com/thumbnailer-prod-us-east-1/b78a3842b1bc4e44875c30c4218d37a4/FinalFBforpkg.jpg?output-quality=60
 ingredients:
   - 2 lb ground beef
   - 2 tablespoons kosher salt
@@ -40,15 +42,15 @@ nutritional_info: |-
 cook_time: ''
 prep_time: ''
 total_time: ''
-link: 'https://tasty.co/recipe/chipotle-chili-and-cornbread-dumplings'
+source_url: 'https://tasty.co/recipe/chipotle-chili-and-cornbread-dumplings'
 difficulty: Easy
 rating: 4
 tags:
   - Spicy
   - Soup
   - Beef
+description: ''
 ---
-
 ## Directions
 
 In a large bowl, mix the flour, cornmeal, baking powder, and salt. Mix and make a little well in the center.

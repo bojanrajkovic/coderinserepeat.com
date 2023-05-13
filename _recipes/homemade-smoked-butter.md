@@ -3,21 +3,26 @@ layout: recipe
 uid: D768DDC0-9BE8-416D-8D24-9CA0CF5EBAF0-8666-000007B6A1F5565F
 hash: 35ECCAB9D697FAF698DEB90FED4B0EAF12031251AD798E2C5A7ADAAACD581E06
 name: Homemade Smoked Butter
+image_url: >-
+  https://www.vindulge.com/wp-content/uploads/2015/07/Making-Homemade-Butter-241x300.jpg
 ingredients:
   - 2 cups good quality heavy cream
   - 1 teaspoon salt optional
 servings: 4-6
 nutritional_info: ''
 cook_time: 2h
+iso_cook_time: P0D
 prep_time: 5m
+iso_prep_time: P0D
 total_time: 2h30m
-link: 'https://www.vindulge.com/homemade-smoked-butter/'
+iso_total_time: P0D
+source_url: 'https://www.vindulge.com/homemade-smoked-butter/'
 difficulty: Hard
 rating: 4
 tags:
   - Smoked
+description: ''
 ---
-
 ## Directions
 
 Smoke the heavy cream in a glass bowl at 200 degrees for about 90 minutes. You can go longer for more smoke influence, but the key is to keep the cream from boiling (212 degrees Fahrenheit), if you keep your heat at or just below 200, you avoid the temperature of the cream from boiling.

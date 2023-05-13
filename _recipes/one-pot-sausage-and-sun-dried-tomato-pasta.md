@@ -1,8 +1,10 @@
 ---
 layout: recipe
 uid: 78F9DF60-BA11-40DE-96E6-C41295AD6FF3-6735-000003AC1C0130E5
-hash: CD2C602E6CAA502E59DB74E75B9BDB8B2CB251467F298260F5ED42FC6099A67A
+hash: 132D920097734964FF5C21D94F0AB4C5FE87DB34AD53E49B18D106007B2F00F9
 name: One Pot Sausage and Sun Dried Tomato Pasta
+image_url: >-
+  https://www.budgetbytes.com/wp-content/uploads/2017/03/One-Pot-Sausage-and-Sun-Dried-Tomato-Pasta-V2-300x400.jpg
 ingredients:
   - 8 oz sweet Italian sausage
   - 1 Tbsp olive oil
@@ -16,17 +18,19 @@ ingredients:
 servings: '4'
 nutritional_info: ''
 cook_time: 25 minutes
+iso_cook_time: PT25M
 prep_time: 5 minutes
+iso_prep_time: PT5M
 total_time: ''
-link: 'https://www.budgetbytes.com/one-pot-sausage-sun-dried-tomato-pasta/'
+source_url: 'https://www.budgetbytes.com/one-pot-sausage-sun-dried-tomato-pasta/'
 difficulty: Easy
-rating: 0
+rating: 5
 tags:
   - Pasta
   - Pork
   - Budget
+description: ''
 ---
-
 ## Directions
 
 Add the olive oil and sausage to the skillet and cook over medium heat until browned. If using links, cook them until browned on the outside and firm enough to slice, then slice into medallions, return to the skillet, and brown on both sides. Transfer the cooked sausage to a clean bowl and drain off all but about 1 Tbsp fat from the skillet.

@@ -30,17 +30,21 @@ ingredients:
 servings: '10'
 nutritional_info: ''
 cook_time: 45 min
+iso_cook_time: P0D
 prep_time: 30 min
+iso_prep_time: P0D
 total_time: 1 hr 15 min
-link: ''
+iso_total_time: P0D
+source_url: ''
 difficulty: Medium
 rating: 5
 tags:
   - Desserts
   - Bakes
+description: >-
+  Half caramel apple, half cinammon spice, this cake is warm and familiar, like
+  the first sweater day of fall. Welcome back, coziness.
 ---
-Half caramel apple, half cinammon spice, this cake is warm and familiar, like the first sweater day of fall. Welcome back, coziness.
-            
 ## Directions
 
 1. Preheat oven to 325F. Line bottom and sides of loaf pan with parchment paper. Alternatively, you may coat the pan with oil.

@@ -1,8 +1,10 @@
 ---
 layout: recipe
 uid: 0D79CEE1-D663-4923-80EC-3F0245DAE420
-hash: F50D2B245F958D9014A837E33FA86F0CD7B01180948FC862258FB20FEB2F2ABF
+hash: B9093F11FA1A110C0C1369611CF788AEE6B3398CF7CB40F1F3E955D6FB711BAA
 name: Green Chile-Chicken Casserole
+image_url: >-
+  https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcdn-image.myrecipes.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedium_2x%2Fpublic%2Fimage%2Frecipes%2Fck%2F03%2F11%2Fcasserole-ck-550015-x.jpg%3Fitok%3DgGYAuFDr&w=800&c=sc&poi=face&q=85
 ingredients:
   - '1 1/3 cups fat-free, less-sodium chicken broth'
   - '1 cup canned chopped green chiles, drained'
@@ -37,14 +39,14 @@ nutritional_info: |-
 cook_time: ''
 prep_time: ''
 total_time: ''
-link: 'https://www.myrecipes.com/recipe/green-chile-chicken-casserole'
+source_url: 'https://www.myrecipes.com/recipe/green-chile-chicken-casserole'
 difficulty: Easy
-rating: 0
+rating: 5
 tags:
   - Mexican
   - Chicken
+description: ''
 ---
-
 ## Directions
 
 Preheat oven to 350°.

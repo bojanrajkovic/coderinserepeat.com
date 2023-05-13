@@ -3,6 +3,8 @@ layout: recipe
 uid: 0469C16A-35A2-44A3-A0FF-EA271763CB80-5193-000006D31D1CE73F
 hash: 028BAA9DADE08E8954FE9EC78B66AA0AFB4EDBCB823AD9258C3C115582DF4798
 name: Mexican-Style Pork Tacos (Tacos Al Pastor)
+image_url: >-
+  https://img.buzzfeed.com/video-api-prod/assets/7ae7e369f0b042ab9fdde41c89be6aec/BFV13345_HomemadeAlPastor-ThumbTextless1080.jpg
 ingredients:
   - '**FOR PORK**'
   - 5 lb boneless pork shoulder
@@ -26,17 +28,18 @@ ingredients:
 servings: '10'
 nutritional_info: ''
 cook_time: 2h
+iso_cook_time: P0D
 prep_time: 3+ hours
 total_time: 5+ hours
-link: 'https://www.tasty.co/recipe/mexican-style-pork-tacos-tacos-al-pastor'
+source_url: 'https://www.tasty.co/recipe/mexican-style-pork-tacos-tacos-al-pastor'
 difficulty: Easy
 rating: 0
 tags:
   - Mexican
   - Pork
   - Roasts
+description: ''
 ---
-
 ## Directions
 
 Slice the pork shoulder into about 1-centimeter (¼ in) slices, then transfer to a large dish or bowl. In a medium bowl, combine the achiote paste, chili powder, garlic powder, oregano, cumin, salt, pepper, vinegar, and pineapple juice, mashing and stirring until smooth with no lumps. Pour the marinade over the pork slices, then toss to make sure they are coated on all sides. Cover the bowl with plastic wrap, then refrigerate for at least 2 hours or up to 3 days.

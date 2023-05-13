@@ -3,6 +3,8 @@ layout: recipe
 uid: EB5C3FF0-A439-4C00-9BA7-1DDCAF5E9B2B-6735-000003AD51D3C1C0
 hash: 8E502AB540FC41E67E8017BA27FEE391D1E1B6F5FFBFC1112E5835D5CFE477AD
 name: Sushi Bowls with Sriracha Mayo
+image_url: >-
+  https://www.budgetbytes.com/wp-content/uploads/2016/06/Sushi-Bowls-Sriracha-Mayo-145x109.jpg
 ingredients:
   - '**For sushi rice**'
   - 2 cups short grain white rice
@@ -21,16 +23,18 @@ ingredients:
 servings: '4'
 nutritional_info: ''
 cook_time: 30 minutes
+iso_cook_time: PT30M
 prep_time: 15 minutes
+iso_prep_time: PT15M
 total_time: ''
-link: 'https://www.budgetbytes.com/sushi-bowls-sriracha-mayo/'
+source_url: 'https://www.budgetbytes.com/sushi-bowls-sriracha-mayo/'
 difficulty: Medium
 rating: 0
 tags:
   - Asian
   - Budget
+description: ''
 ---
-
 ## Directions
 
 Place the uncooked short grain rice in a medium sauce pot. Cover with cool water, swish the rice around, then carefully pour off the cloudy water. Repeat this rinsing process 3-4 times. Finally, add 2 cups fresh water, place a lid on the pot, and place the pot over high heat. Allow the pot to come to a full boil, then turn the heat down to low and let simmer for 15 minutes. After 15 minutes, turn the heat off and let the rice rest, undisturbed and with the lid in place, for 10 additional minutes.

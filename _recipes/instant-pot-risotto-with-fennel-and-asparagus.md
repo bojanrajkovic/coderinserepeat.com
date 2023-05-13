@@ -1,8 +1,10 @@
 ---
 layout: recipe
 uid: E9BAC414-7057-42BE-8B9C-094467DA9D23-43745-00001C7FBAB7F9B4
-hash: 72B36A318933C86E1B5E6F1EC1D7715576087804F81D39E192DE45B6B2244854
+hash: A298329F67C27F730454EA1EE6BD4FB58B0574A5888D6DD4E39D40B5A7DA1DF6
 name: Instant Pot Risotto With Fennel & Asparagus
+image_url: >-
+  https://i1.wp.com/instantpoteats.com/wp-content/uploads/2017/07/instant-pot-risotto-fennel-asparagus-1.jpg?resize=750%2C500
 ingredients:
   - '**For the risotto**'
   - '1 medium brown onion, finely diced'
@@ -27,16 +29,19 @@ ingredients:
 servings: '4'
 nutritional_info: ''
 cook_time: 15 mins
+iso_cook_time: P0D
 prep_time: 15 mins
+iso_prep_time: P0D
 total_time: 30 mins
-link: 'http://instantpoteats.com/instant-pot-risotto-with-fennel-asparagus-recipe/'
+iso_total_time: P0D
+source_url: 'http://instantpoteats.com/instant-pot-risotto-with-fennel-asparagus-recipe/'
 difficulty: Medium
-rating: 0
+rating: 4
 tags:
   - Pressure Cooker
   - Risotto
+description: ''
 ---
-
 ## Directions
 
 Press the Sauté key on the Instant Pot (it should say Normal, 30 mins). Add the onions and olive oil and sauté for 5 minutes, stirring a few times.

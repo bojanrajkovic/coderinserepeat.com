@@ -3,6 +3,8 @@ layout: recipe
 uid: A2A5C00D-6234-44F4-AB5D-79B0166E8F58-6735-000003A8C985DB0C
 hash: 965376D48BAA5E9D60C6ED5D3FD84ED6CDDA1C47F1F70D1D225D3F936DB9552C
 name: Roasted Eggplant with Meat Sauce
+image_url: >-
+  https://www.budgetbytes.com/wp-content/uploads/2018/01/Roasted-Eggplant-with-Meat-Sauce-V2-300x400.jpg
 ingredients:
   - '**ROASTED EGGPLANT**'
   - 2 Tbsp olive oil
@@ -23,17 +25,19 @@ ingredients:
 servings: '4'
 nutritional_info: ''
 cook_time: 1 hour
+iso_cook_time: PT1H
 prep_time: 10 minutes
+iso_prep_time: PT10M
 total_time: ''
-link: 'https://www.budgetbytes.com/roasted-eggplant-meat-sauce/'
+source_url: 'https://www.budgetbytes.com/roasted-eggplant-meat-sauce/'
 difficulty: Medium
 rating: 4
 tags:
   - Beef
   - Bakes
   - Italian
+description: ''
 ---
-
 ## Directions
 
 Preheat the oven to 400ºF. In a small bowl combine the olive oil, minced garlic, Italian seasoning, and salt.

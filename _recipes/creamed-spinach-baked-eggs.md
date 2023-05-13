@@ -3,6 +3,8 @@ layout: recipe
 uid: 9D690BD1-5527-4F51-B3E6-2B1602F80FD7-6735-000003A79650EBFD
 hash: 5C47202926CC36C08BD21CCA3BFAB9DDC9704E22FFA4817A609C12E1723E515C
 name: Creamed Spinach Baked Eggs
+image_url: >-
+  https://www.budgetbytes.com/wp-content/uploads/2017/03/Creamed-Spinach-Baked-Eggs-V2-300x400.jpg
 ingredients:
   - 2 Tbsp butter
   - '2 cloves garlic, minced'
@@ -18,17 +20,19 @@ ingredients:
 servings: '4'
 nutritional_info: ''
 cook_time: 35 minutes
+iso_cook_time: PT35M
 prep_time: 5 minutes
+iso_prep_time: PT5M
 total_time: ''
-link: 'https://www.budgetbytes.com/creamed-spinach-baked-eggs/'
+source_url: 'https://www.budgetbytes.com/creamed-spinach-baked-eggs/'
 difficulty: Easy
 rating: 0
 tags:
   - Bakes
   - Breakfast
   - Budget
+description: ''
 ---
-
 ## Directions
 
 Preheat the oven to 400ºF. Add the butter and garlic to a skillet and sauté over medium heat for about one minute. Whisk the flour into the melted butter and continue to cook and stir for about two minutes. The butter and flour should form a paste that will foam and bubble as it cooks.

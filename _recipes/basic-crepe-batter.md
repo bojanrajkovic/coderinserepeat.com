@@ -1,7 +1,7 @@
 ---
 layout: recipe
 uid: E08705BE-26A1-4CB0-982E-04EEFF7E7206
-hash: 8AD1C93EFA1E3D3A0305CE1CF1AE03119468A3E6BDE979F351F1CE5B76A85A68
+hash: 7976628C77DDE66C5FC331B87CFB3F2C81EEE490826C99AD2E7682B372B6A3B0
 name: Basic Crepe Batter
 image_url: >-
   https://www.seriouseats.com/recipes/images/2017/02/20170206-spinach-egg-cheese-crepe-primary-200x150.jpg
@@ -21,7 +21,7 @@ prep_time: 15 minutes
 iso_prep_time: PT15M
 total_time: 30 minutes
 iso_total_time: PT30M
-link: 'https://www.seriouseats.com/recipes/2017/03/basic-crepes-batter-recipe.html'
+source_url: 'https://www.seriouseats.com/recipes/2017/03/basic-crepes-batter-recipe.html'
 difficulty: Easy
 rating: 5
 tags:

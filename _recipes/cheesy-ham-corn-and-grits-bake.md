@@ -3,6 +3,8 @@ layout: recipe
 uid: D0B9D5BA-751F-42A5-8CF9-C59B781EF4D9-36735-0000128172411C87
 hash: E909B0B7018C02C925D6C5CE8CE944BE1B4270023DD46731EC39B01B4237E2D2
 name: 'Cheesy Ham, Corn, and Grits Bake'
+image_url: >-
+  https://cdn-image.myrecipes.com/sites/default/files/styles/4_3_horizontal_-_1200x900/public/2475501_newso_093.jpg?itok=P5HmAkxK
 ingredients:
   - 2 tablespoons salted butter
   - 1/4 cup finely chopped yellow onion
@@ -21,17 +23,19 @@ ingredients:
 servings: '8'
 nutritional_info: ''
 cook_time: 1 hour 15 mins
+iso_cook_time: PT1H
 prep_time: 25 mins
+iso_prep_time: P0D
 total_time: ''
-link: 'https://www.myrecipes.com/recipe/cheesy-ham-corn-grits-bake'
+source_url: 'https://www.myrecipes.com/recipe/cheesy-ham-corn-grits-bake'
 difficulty: Easy
 rating: 5
 tags:
   - Bakes
   - Pork
   - Breakfast
+description: ''
 ---
-
 ## Directions
 
 Lightly grease a 3-quart baking dish. Preheat oven to 350°F.

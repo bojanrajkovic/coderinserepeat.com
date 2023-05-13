@@ -3,6 +3,8 @@ layout: recipe
 uid: c89a0fc7-c25c-428e-8b74-1e0febaf1cd3
 hash: 911BFC8B3B400B234A9C8FB22025CFFE8648851B7B43AFA16A4D22F51EA6F2BF
 name: Pesto Alla Trapanese
+image_url: >-
+  https://www.seriouseats.com/2018/06/20180612-pasta-pesto-alla-trapanese-vicky-wasik-19-750x563.jpg
 ingredients:
   - 3 medium cloves garlic
   - Kosher salt
@@ -18,17 +20,19 @@ ingredients:
 servings: '4'
 nutritional_info: ''
 cook_time: 30 minutes
+iso_cook_time: PT30M
 prep_time: 30 minutes
+iso_prep_time: PT30M
 total_time: ''
-link: >-
+source_url: >-
   https://www.seriouseats.com/recipes/2018/07/pesto-alla-trapanese-sicilian-pesto-with-almonds-and-tomatoes.html
 difficulty: Easy
 rating: 5
 tags:
   - Sauces
   - Italian
+description: ''
 ---
-
 ## Directions
 
 1. If Using a Mortar and Pestle: Crush the garlic in the mortar with a pinch of salt to form a paste. Add almonds and beat and crush into a rough paste. Work in basil leaves and mint (if using), pounding and crushing into tiny bits. Smash in cheese, followed by tomatoes and olive oil. The final sauce should be a rough paste. Season with salt.
