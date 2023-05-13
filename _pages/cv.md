@@ -19,7 +19,7 @@ tools:
   - Git
   - GitHub
 experience:
-  - title: Director, Monitoring Engineering
+  - title: Director, Software Engineering
     employer: SimpliSafe
     start: May 2021
     end: Present
@@ -30,23 +30,27 @@ experience:
       - OpenTelemetry
     bullets:
       - |
-        Build an organizational structure that enabled a smooth integration of engineering
-        and product managers into a delivery and outcome-focused team, resulting in on-time
-        delivery of 4 major programs between June 2022 and now.
+        Led technology and engineering for SimpliSafe's professional alarm monitoring business, with
+        a highly engaged team of 20 engineering and QA staff, along with 10 supporting staff from
+        TPM, PM, and operations. During my time, surveyed engagement scores for my organization have
+        been 15+ points above the company average, and 30+ above in key areas of leadership and
+        management.
       - |
-        Work with product and operational stakeholders to identify opportunities in
-        the monitoring space and develop the strategy for monitoring
+        Built an organizational structure that enabled a smooth integration of engineering staff
+        and product managers into delivery and outcome-focused teams, resulting in on-time
+        delivery of 4 major programs between June 2022 and now that increased NPS, reduced
+        recurring costs, and built competitive advantage
       - |
-        Work across the engineering organization to drive systems design improvements to
-        improve monitoring outcomes and experiences, and drive improvements in systems
+        Partnered with product, business, operations, and executives to define and promulgate
+        our strategy and roadmap for the professional monitoring business
+      - |
+        Worked across the engineering organization to drive systems design improvements to
+        improve alarm monitoring outcomes and experiences, and drive improvements in systems
         outside of my immediate purview
       - |
         Work with dispatch partners to ensure scalable, reliable, and performant
         delivery of alarms, tools that enable faster and more accurate decision making,
         and prioritized dispatch of first responders
-      - |
-        Led and developed a combined engineering/QA team of 20, with ancillary support staff
-        from TPM, QA, product, and operations, with the highest engagement scores in the company
   - title: Director, Systems Architecture
     employer: First Republic Bank
     start: February 2019
@@ -65,7 +69,8 @@ experience:
       - |
         Led a small architecture team working as horizontal solution
         architecture and API experts for a banking core replacement effort
-        (10+ major workstreams, 50+ total projects)
+        (10+ major workstreams, 50+ total projects), serving 100s of engineers
+        and solution architects
       - |
         Led enterprise efforts on software quality and SDLC compliance,
         including devising new quality metrics based on engineering community
@@ -107,7 +112,8 @@ experience:
         improve the way we worked
       - |
         Led a release that fixed dozens of bugs and resulted in dramatic
-        stability and reliability improvements
+        stability and reliability improvements, including a 1000x performance
+        improvement in a key billing component
       - |
         Short tenure resulted from a disagreement between the CEO and the entire
         senior engineering staff about best practices
@@ -177,7 +183,8 @@ experience:
         infrastructure itself
       - |
         Developed and maintained processes to improve efficiency of sales and
-        support process.
+        support process, reducing the time it took to deliver and fulfill a
+        customer quote to <30s
       - |
         Worked closely with finance and executive teams on business
         intelligence, fundraising, and general operations understanding. Devised
@@ -233,6 +240,9 @@ experience:
         Evaluated and identified hardware with suitable characteristics for
         metrics collection platform that was suitable for use in industrial
         plants
+awards_and_publications:
+  - SimpliSafe FY2023 Inventor of the Year
+  - Multiple pending patent applications from my work at SimpliSafe
 ---
 
 ## About Me
@@ -243,10 +253,15 @@ etc.), building infrastructure, working on engineering systems and culture,
 building software development lifecycle policy, structuring out knowledge
 management (ask me about why it's key to healthy organizations!), and designing
 systems architectures. I'm a Git wizard, a comfortable and proficient technical
-writer, and I love to teach and mentor. I'm comfortable learning on the fly
-&mdash; I firmly believe that for most engineers, the things you already know
-aren't important, but your curiosity and learning/knowing how to learn[^0] are what
-will determine your success.
+writer, and I love to teach and mentor.
+
+I'm comfortable learning on the fly &mdash; I firmly believe that for most
+engineers, the things you already know aren't important, but your curiosity and
+learning/knowing how to learn are what will determine your success. I love
+building organizations and finding efficiences and economies of scale and
+structure that make collaboration easier; my teams are consistently
+highly engaged with their work, deeply care about their customers and products,
+and it shows in their outcomes.
 
 If you're a startup, I also bring experience in the business of startups &mdash;
 the team I led at Xamarin worked closely with finance, sales, and executive
@@ -269,17 +284,16 @@ software.
 Technologies: {{ job.tech | join: ", " }}
 {% endfor %}
 
+## Awards and Publications
+
+{% for ap in page.awards_and_publications %}
+* {{ap}}
+{% endfor %}
+
 ## Contacting Me
 
 The best way to reach me re: hiring is [via email][email]. You can also message me on
 [LinkedIn][lin], or find my Twitter, etc.
-
-[^0]: "Many have marked the speed with which Muad'Dib learned the necessities of
-    Arrakis. The Bene Gesserit, of course, know the basis of this speed. For the
-    others, we can say that Muad'Dib learned rapidly because his first training was
-    in how to learn. And the first lesson of all was the basic trust that he could
-    learn. It is shocking to find how many people do not believe they can learn, and
-    how many more believe learning to be difficult." - Frank Herbert
 
 [email]: mailto:resume@coderinserepeat.com?subject=Position%20at%20YourCompanyHere
 [lin]: https://linkedin.com/in/brajkovic
