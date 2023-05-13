@@ -2,7 +2,7 @@
 layout: recipe
 uid: F358F51A-0C65-4277-A0DF-ADF2E00817E1
 hash: DB66084207C66F2DAD623ACEE0ADDBAE7B4C1FD07B4DBE2514A4EB2BCC0DBAB7
-name: Blueberry Cookies | Vegan & Naturally Blue!
+name: Blueberry Cookies (Vegan & Naturally Blue!)
 image_url: >-
   https://justinesnacks.com/wp-content/uploads/2021/03/Blueberry-Cookies-Justine-Snacks.jpg
 ingredients:
