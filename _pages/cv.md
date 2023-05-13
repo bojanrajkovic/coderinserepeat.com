@@ -27,19 +27,26 @@ experience:
       - JavaScript/TypeScript
       - AWS (ECS/EKS, DocumentDB, DynamoDB, etc.)
       - Kafka
+      - OpenTelemetry
     bullets:
       - |
-        Build the organizational structure to best align with our products and
-        deliver stronger customer experiences.
+        Build an organizational structure that enabled a smooth integration of engineering
+        and product managers into a delivery and outcome-focused team, resulting in on-time
+        delivery of 4 major programs between June 2022 and now.
       - |
-        Work with product and business stakeholders to identify opportunities in
-        the monitoring space and build the technology portion of the roadmap.
+        Work with product and operational stakeholders to identify opportunities in
+        the monitoring space and develop the strategy for monitoring
       - |
-        Work across the organization to drive API & systems design improvements to
-        improve monitoring outcomes and experiences.
+        Work across the engineering organization to drive systems design improvements to
+        improve monitoring outcomes and experiences, and drive improvements in systems
+        outside of my immediate purview
       - |
         Work with dispatch partners to ensure scalable, reliable, and performant
-        delivery of alarms and dispatch of first responders.
+        delivery of alarms, tools that enable faster and more accurate decision making,
+        and prioritized dispatch of first responders
+      - |
+        Led and developed a combined engineering/QA team of 20, with ancillary support staff
+        from TPM, QA, product, and operations, with the highest engagement scores in the company
   - title: Director, Systems Architecture
     employer: First Republic Bank
     start: February 2019
@@ -65,11 +72,11 @@ experience:
         health
       - |
         Built out developer guidance on application architecture/non-functional
-        requirements, software patterns, system design, and API design.
+        requirements, software patterns, system design, and API design
       - |
         Worked with diverse teams across lines of business to help drive
         technology roadmaps, as well as identify opportunities for strategic
-        alignment and reuse.
+        alignment and reuse
       - |
         Served as a subject matter expert on all aspects of software
         development: technology stack selection, framework/library evaluation,
