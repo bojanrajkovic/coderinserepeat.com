@@ -150,7 +150,7 @@ Jul 31 22:32:58 hagal docker-gen-dns-start[3691698]: 2023/07/31 22:32:58 Watchin
 Jul 31 22:32:58 hagal docker-gen-dns-start[3691698]: 2023/07/31 22:32:58 Contents of dnsconfig.js did not change. Skipping notification 'systemctl start dnscontrol-apply-docker.coderinsepeat.com'
 ```
 
-When I manually killed a controller[^6], you can see the expected output when things do happen:
+When I manually killed a container[^6], you can see the expected output when things do happen:
 
 ```
 Jul 31 22:35:09 hagal docker-gen-dns-start[3691698]: 2023/07/31 22:35:09 Received event die for container 236c84adea38
@@ -179,3 +179,4 @@ Overall, really simple, and like I said, hits a strong Pareto optimal: an all-in
 [^3]: Where my domain is hosted, but likely it would have ended up supporting pluggable providers, because I can't build anything without overbuilding it.
 [^4]: 80% of the desired outcome, 20% of the work.
 [^5]: Not that we need to — the day-to-day records that I use live on the root domain.
+[^6]: Just for fun, but I do need to cut this controller out of the configuration for good.
