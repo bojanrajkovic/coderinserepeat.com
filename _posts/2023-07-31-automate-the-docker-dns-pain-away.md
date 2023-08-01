@@ -179,4 +179,4 @@ Overall, really simple, and like I said, hits a strong Pareto optimal: an all-in
 [^3]: Where my domain is hosted, but likely it would have ended up supporting pluggable providers, because I can't build anything without overbuilding it.
 [^4]: 80% of the desired outcome, 20% of the work.
 [^5]: Not that we need to — the day-to-day records that I use live on the root domain.
-[^6]: Just for fun, but I do need to cut this controller out of the configuration for good.
+[^6]: Just for fun, but I do need to cut this container out of the configuration for good.
