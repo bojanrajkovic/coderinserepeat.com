@@ -12,7 +12,7 @@ excerpt: >-
   one that works reliably with some existing tools, and only mild cursing.
 ---
 
-Like many other nerds, I have somewhat of a homelab at home. These days it's not as complicated as it used to be, consisting largely of a big "NAS"[^0], a Home Assistant box, and a couple other small things. 
+Like many other nerds, I have somewhat of a homelab at home. These days it's not as complicated as it used to be, consisting largely of a big "NAS"[^0], a Home Assistant box, and a couple other small things.
 
 The NAS, being a beefy server machine, runs a bunch of Docker containers for various things — Octoprint, Docspell (which runs 2 of its own containers + Solr), etc.. It also runs NixOS[^1], and all of these containers are fronted by the [Let's Encrypt](https://nixos.wiki/wiki/ACME) and [Nginx](https://nixos.wiki/wiki/Nginx) infrastructure that it provides. To avoid exposing ports on the NAS's "host" network, I point Nginx virtual hosts directly at container IPs, like so:
 
@@ -29,7 +29,7 @@ services.nginx.virtualHosts."octoprint.coderinserepeat.com" = {
 };
 ```
 
-This generally works, except...one of the things that NixOS does as part of a `nixos-rebuild --switch` when using the declarative Nginx configuration is an Nginx configuration check. Normally, this is great: if I screw up the configuration somehow (e.g. injecting some bad configuration), it won't take down Nginx. However, it has a big downside: if containers are restarted/container configuration changes, assigned IPs are not stable[^2], and Nginx configuration will fail to validate 
+This generally works, except...one of the things that NixOS does as part of a `nixos-rebuild --switch` when using the declarative Nginx configuration is an Nginx configuration check. Normally, this is great: if I screw up the configuration somehow (e.g. injecting some bad configuration), it won't take down Nginx. However, it has a big downside: if containers are restarted/container configuration changes, assigned IPs are not stable[^2], and Nginx configuration will fail to validate.
 
 Previously, I'd tried a number of things that purported to provide a Docker <-> DNS translation, subscribing to Docker daemon events and running a DNS server that I could point other things at. In practice, this never worked quite right: despite telling `systemd-resolved` that the `dns-proxy-server` container should be used for DNS, rebuilds (and thus Nginx config checks) would frequently fail because the upstreams would fail to respond on the `proxyPass` ports.
 
@@ -45,17 +45,17 @@ First, the `docker-gen` unit — `docker-gen` knows how to run as a daemon and l
 
 ```js
 systemd.services."docker-gen-dns" = {
-      path = [
-        "/nas/homes/brajkovic/bin"
-      ];
+  path = [
+    "/nas/homes/brajkovic/bin"
+  ];
 
-      script = ''
-        docker-gen -config docker-gen.cfg
-      '';
+  script = ''
+    docker-gen -config docker-gen.cfg
+  '';
 
-      serviceConfig.WorkingDirectory = "/nas/homes/brajkovic/.config/dns";
-      wantedBy = [ "multi-user.target" ];
-    };
+  serviceConfig.WorkingDirectory = "/nas/homes/brajkovic/.config/dns";
+  wantedBy = [ "multi-user.target" ];
+};
 ```
 
 The working directory is where the `docker-gen.cfg` file lives, it'll be in the next section.
@@ -66,20 +66,20 @@ Next, the `dnscontrol` unit — in this case, we register it as a `oneshot` unit
 
 ```js
 systemd.services."dnscontrol-apply-docker.coderinserepeat.com" = {
-      path = [
-        "/nas/homes/brajkovic/bin"
-      ];
+  path = [
+    "/nas/homes/brajkovic/bin"
+  ];
 
-      script = ''
-        dnscontrol version
-        dnscontrol preview
-        dnscontrol push
-      '';
+  script = ''
+    dnscontrol version
+    dnscontrol preview
+    dnscontrol push
+  '';
 
-      serviceConfig.Type = "oneshot";
-      serviceConfig.WorkingDirectory = "/nas/homes/brajkovic/.config/dns";
-      after = [ "multi-user.target" ];
-    };
+  serviceConfig.Type = "oneshot";
+  serviceConfig.WorkingDirectory = "/nas/homes/brajkovic/.config/dns";
+  after = [ "multi-user.target" ];
+};
 ```
 
 ## The config files
@@ -94,7 +94,7 @@ dest = "dnsconfig.js"
 notifycmd = "systemctl start dnscontrol-apply-docker.coderinserepeat.com"
 template = "dnsconfig.js.tmpl"
 watch = true
-wait = "500ms:2s"%  
+wait = "500ms:2s"
 ```
 
 It tells `docker-gen` to source the template from `dnsconfig.js.tmpl`, write it to `dnsconfig.js`, and then run our `dnscontrol` unit as the "notify" command after it's done updating the template. Setting `watch` to `true` puts `docker-gen` in daemon mode, and `wait` configures the hysteresis: it will wait at least 500ms, at most 2 seconds, to debounce changes.
@@ -107,15 +107,13 @@ The `dnscontrol` template, also deceptively simple:
 var REG_NONE = NewRegistrar("none");
 var DSP_R53 = NewDnsProvider("r53_main");
 
-D("docker.coderinserepeat.com", REG_NONE, DnsProvider(DSP_R53),
-{% raw %}
+D("docker.coderinserepeat.com", REG_NONE, DnsProvider(DSP_R53),{% raw %}
 {{range $key, $value := .}}
     {{if $value.IP}}
     // {{ $value.Name }} ({{$value.ID}} from {{$value.Image.Repository}})
     A("{{ $value.Name }}", "{{$value.IP}}"),
     {{end}}
-{{end}}
-{% endraw %}
+{{end}}{% endraw %}
     // Allow letsencrypt to issue certificate for this domain
     CAA("@", "issue", "letsencrypt.org"),
     // Allow ACM to issue certificates for this domain
