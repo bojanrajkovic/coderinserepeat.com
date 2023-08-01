@@ -2,6 +2,7 @@
 published: true
 created: 2023-07-31
 date: 2023-07-31
+title: Automate the Docker DNS Pain Away
 tags:
   - docker
   - dns
@@ -107,12 +108,14 @@ var REG_NONE = NewRegistrar("none");
 var DSP_R53 = NewDnsProvider("r53_main");
 
 D("docker.coderinserepeat.com", REG_NONE, DnsProvider(DSP_R53),
+{% raw %}
 {{range $key, $value := .}}
     {{if $value.IP}}
     // {{ $value.Name }} ({{$value.ID}} from {{$value.Image.Repository}})
     A("{{ $value.Name }}", "{{$value.IP}}"),
     {{end}}
 {{end}}
+{% endraw %}
     // Allow letsencrypt to issue certificate for this domain
     CAA("@", "issue", "letsencrypt.org"),
     // Allow ACM to issue certificates for this domain
