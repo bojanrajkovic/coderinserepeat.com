@@ -34,7 +34,7 @@ Previously, I'd tried a number of things that purported to provide a Docker <-> 
 
 I was about to embark on a "stupid scratch a homelab itch" project and write something that connects to Docker, listens for events, and updates Route53[^3], when [Pete Keen](https://hachyderm.io/@zrail) suggested that I check out the [`docker-gen`](https://github.com/nginx-proxy/docker-gen/) project, and then pointed me at [`dnscontrol`](https://dnscontrol.org/) as well. Sensing an opportunity to hit a Pareto optimal[^4], I set about hacking up some `systemd` services and a `dnsconfig.js.tmpl` file, and an hour or so later, had something extremely feasible.
 
-For the purposes of this writeup, I'm going to assume that you already have the `dnscontrol` and `docker-gen` binaries somewhere on your system. In my case, they're in `/nas/homes/brajkovic/bin`.
+For the purposes of this writeup, I'm going to assume that you already have the `dnscontrol` and `docker-gen` binaries somewhere on your system. In my case, they're in `/nas/homes/brajkovic/bin`. I also assume that you're using Nix/NixOS, because I didn't write the units manually, but hopefully these declarations for the `systemd` units are simple enough to manually write the full unit.
 
 ## The `systemd` units
 
