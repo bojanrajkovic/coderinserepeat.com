@@ -1,13 +1,11 @@
 ---
 layout: recipe
-uid: A3312025-39D2-4496-9516-AA6ED2400DDB
-hash: 458603AA9CE82EFBC9B022F57F783BACF1A61681A8A64F039CE96EB8A7D93892
+uid: 3B7ABAC6-6DB2-4897-9D19-A0F894931231
+hash: 20913A679598BEE3AB3A24A781B4341C2025AB157DF8FA5FFC5EB929E144316D
 name: Chicken and Dumplings
 image_url: >-
   https://thecozycook.com/wp-content/uploads/2021/12/Chicken-and-Dumplings-Recipe-500x536.jpg
 ingredients:
-  - Storage
-  - Soup
   - 1 tablespoon olive oil
   - '2 lbs. bone-in skinless chicken breast or thighs, see notes'
   - 'Salt/Pepper, to taste'

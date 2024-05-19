@@ -1,7 +1,7 @@
 ---
 layout: recipe
-uid: BDCA0020-8B21-4F4F-BAE8-DC9A32288DFE-24650-000069E0A3E2599A
-hash: 925376CEF12B55E82248DBD2BE9E21A287E5BE01E3F7A3EB2B1040F87DA04DAF
+uid: 68CD6C42-7F3C-4E7F-9001-A2C088BC587E-24650-000069D5652EEF4C
+hash: B46E0B0D901D5C3B9251D1DB5296AE3E5A04741BFB5AC6BD06846389FE7702EB
 name: Blistered Cheesy Peppers
 image_url: >-
   https://assets.bonappetit.com/photos/5f19d86e15fa96522dcee3b7/16:9/w_1880,c_limit/_Spicy-Stuffed-Peppers-with-Cheese.jpg
@@ -19,13 +19,18 @@ ingredients:
   - 2 garlic cloves
 servings: '4'
 nutritional_info: ''
-cook_time: ''
-prep_time: ''
-total_time: ''
+cook_time: 10m
+iso_cook_time: P0D
+prep_time: 20m
+iso_prep_time: P0D
+total_time: 30m
+iso_total_time: P0D
 source_url: 'https://www.bonappetit.com/recipe/blistered-cheesy-peppers'
 difficulty: Easy
-rating: 0
-tags: []
+rating: 5
+tags:
+  - Bakes
+  - Roasts
 description: ''
 ---
 ## Directions

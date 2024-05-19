@@ -1,7 +1,7 @@
 ---
 layout: recipe
-uid: D7DD14E2-2381-47CE-A4D6-AF369AAA192F
-hash: 091608EDE426E4C9D9854B0D7379C9EB787C4609B9B9F04D3F13DC8902F3BB67
+uid: 0B3BB67D-9B23-4DDA-A2F2-A5C0DB770D3C
+hash: F560364249D66C4D38FD7EE9B7D0C1566BA90D822500FF5E7FAE8DF5033F8E80
 name: Spiced Maple Butter Cookies
 image_url: >-
   https://butternutbakeryblog.com/wp-content/uploads/2023/08/spiced-maple-butter-cookies.jpg
@@ -23,14 +23,14 @@ ingredients:
   - 1 tsp ground ginger
   - ¼ tsp ground nutmeg
   - ⅛ tsp ground cloves
-  - '**Cinnamon Sugar**'
+  - Cinnamon Sugar
   - ½ cup (100g) granulated sugar
   - 1 tbsp ground cinnamon
   - Maple Icing
   - 2 tbsp unsalted butter
   - 3 tbsp pure maple syrup
   - ¾ cup (75g) powdered sugar
-  - ''
+  - Cook Mode Prevent your screen from going dark
 servings: 'Yield: 12 large cookies'
 nutritional_info: ''
 cook_time: 45 minutes

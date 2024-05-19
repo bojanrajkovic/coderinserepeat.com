@@ -1,7 +1,7 @@
 ---
 layout: recipe
-uid: CE4EF204-C5D4-46D9-B77A-5B9DCC0F348F
-hash: 2936EBE3EE7734B0FC3F42082C6B02C135377A6B9CC17A39398CB24A7AE039E1
+uid: 97C941CA-16DB-4147-B690-CD1B6B9B26EC
+hash: 8BA4610314D1AA426B1EA41A630DF8CDD1B5EDEA408D56088BC5D9789D6BDE96
 name: Blueberry Crumb Bars
 image_url: >-
   https://www.cookingclassy.com/wp-content/uploads/2018/05/blueberry-crumb-bars-1-788x1182.jpg
@@ -38,7 +38,8 @@ total_time: ''
 source_url: 'https://www.cookingclassy.com/blueberry-crumb-bars/'
 difficulty: ''
 rating: 0
-tags: []
+tags:
+  - Desserts
 description: ''
 ---
 ## Directions
