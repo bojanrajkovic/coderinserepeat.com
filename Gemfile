@@ -24,4 +24,4 @@ gem "minimal-mistakes-jekyll"
 gem "rake"
 gem "slugify"
 gem "classifier-reborn"
-gem "gsl"
+gem 'gsl', git: 'https://github.com/SciRuby/rb-gsl.git', ref: '103a3e1'

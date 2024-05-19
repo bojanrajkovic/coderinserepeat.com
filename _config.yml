@@ -11,6 +11,7 @@ url: https://coderinserepeat.com
 repository: bojanrajkovic/coderinserepeat.com
 breadcrumbs: true
 words_per_minute: 200
+enable_copy_code_button: true
 comments:
   provider: utterances
   utterances:
@@ -100,6 +101,9 @@ markdown_ext: markdown,mkdown,mkdn,mkd,md
 markdown: kramdown
 highlighter: rouge
 lsi: true
+search: true
+lunr:
+  search_within_pages: true
 excerpt_separator: "\n\n"
 incremental: false
 kramdown:
@@ -136,6 +140,7 @@ defaults:
     share: true
     related: true
     classes: wide
+    show_date: true
 - scope:
     path: _pages
     type: pages
