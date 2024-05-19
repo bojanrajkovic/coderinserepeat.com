@@ -28,10 +28,7 @@ social:
   - https://instagram.com/brajkovic
   - https://github.com/bojanrajkovic
 analytics:
-  provider: google-gtag
-  google:
-    tracking_id: <%= ENV['GOOGLE_TRACKING_ID'] %>
-    anonymize_ip: true
+  provider: custom
 author:
   name: Bojan Rajkovic
   avatar: https://s.gravatar.com/avatar/646da885e0b810fa623125a9f216ffa8?s=240
