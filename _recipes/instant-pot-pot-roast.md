@@ -1,12 +1,12 @@
 ---
 layout: recipe
 uid: 40FF7A0F-9944-447F-B4C8-2C1AD49BE951
-hash: 3A64E9B0F5F8DA1BF6E3D050378F36014E1BC3034893C1EDA2964901956B5C20
+hash: E79460A1462EF2A197D90D922DCE8C1527C09412DE0854F7642399346576222F
 name: Instant Pot Pot Roast
 image_url: >-
   https://www.fromvalerieskitchen.com/wordpress/wp-content/uploads/2018/09/Instant-Pot-Beef-Stew-SQ-062.jpg
 ingredients:
-  - '**FOR THE POT ROAST**'
+  - 'FOR THE POT ROAST:'
   - 3 1/2 to 4 pound beef roast
   - '3 tablespoons olive oil, divided'
   - 1 cup diced onion
@@ -17,7 +17,7 @@ ingredients:
   - 1 tablespoon Worcestershire sauce
   - '4 carrots, peeled and cut into large 2" to 3" chunks'
   - 1 1/2 pounds whole baby potatoes
-  - '**FOR THE POT ROAST DRY RUB**'
+  - 'FOR THE POT ROAST DRY RUB:'
   - 1 1/2 teaspoons sea salt
   - 1 1/2 teaspoons dried crushed rosemary
   - 1 1/2 teaspoons dried thyme
@@ -41,11 +41,10 @@ cook_time: 35 minutes
 iso_cook_time: PT35M
 prep_time: 15 minutes
 iso_prep_time: PT15M
-total_time: 1 hour
-iso_total_time: PT1H
+total_time: ''
 source_url: 'https://www.fromvalerieskitchen.com/instant-pot-pot-roast/'
-difficulty: Easy
-rating: 5
+difficulty: ''
+rating: 0
 tags:
   - Pressure Cooker
   - Beef

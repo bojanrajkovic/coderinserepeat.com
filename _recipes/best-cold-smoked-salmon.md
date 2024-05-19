@@ -1,7 +1,7 @@
 ---
 layout: recipe
 uid: 09EA6A3E-00A2-47DC-8B0E-49129168CC5A
-hash: 79086BDCA9950A8CDEEE067544337D30FF4F2E25445D830FCD4EFB7059CC4E00
+hash: FAC955B62823F88124FCF72C7FB7996AA6B35C2C3CA05B160384BC4CB914271D
 name: Best Cold Smoked Salmon
 image_url: >-
   https://wordpress-live.heygrillhey.com/wp-content/uploads/2019/09/Cold-Smoked-Salmon-Feat.jpg
