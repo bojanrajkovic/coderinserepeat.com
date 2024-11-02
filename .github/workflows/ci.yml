@@ -23,7 +23,7 @@ jobs:
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: ${{ runner.os }}-gems-
       - name: 🗜 ship the artifact for review
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: site
           path: _site
@@ -34,7 +34,7 @@ jobs:
     environment: test
     steps:
       - name: ⬇ download artifact
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: site
           path: _site
@@ -53,7 +53,7 @@ jobs:
     environment: production
     steps:
       - name: ⬇ download artifact
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: site
           path: _site
